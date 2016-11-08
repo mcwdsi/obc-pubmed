@@ -1,7 +1,7 @@
 import unittest
 import requests
 
-from obc_pubmed import parser
+from obc_pubmed import obc_pubmed as obc
 
 
 class TestObcPubmed(unittest.TestCase):
@@ -20,17 +20,17 @@ class TestObcPubmed(unittest.TestCase):
         res = requests.get(
             self.PUBMED_XML_URL.format(self.PARSE_TEST_PMID)
         ).text
-        article_obj = parser.PubmedArticle(res)
+        article_obj = obc.PubmedArticle(res)
 
         self.assertEqual(article_obj.doi, expected["doi"])
         self.assertEqual(article_obj.pmid, expected["pmid"])
 
     def test_publication_in_obc(self):
         # testing a pmid lookup
-        article_obj = parser.PubmedArticle(
+        article_obj = obc.PubmedArticle(
             requests.get(self.PUBMED_XML_URL.format(self.OBC_IDE_TEST_PMID)).text
         )
 
         self.assertEqual(
-            parser.publication_in_obc(article_obj), True
+            obc.publication_in_obc(article_obj), True
         )
