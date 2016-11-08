@@ -32,6 +32,8 @@ class PubmedArticle():
             else:
                 continue
 
+        return
+
         # these below lines are possible, but more more complicated than just using <ArticleIdList>
 
         # if root.find("MedlineCitation").find("PMID"):
