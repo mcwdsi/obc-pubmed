@@ -32,7 +32,7 @@ class PubmedArticle():
             else:
                 continue
 
-        return
+        return result
 
         # these below lines are possible, but more more complicated than just using <ArticleIdList>
 
@@ -48,19 +48,19 @@ class PubmedArticle():
 
         return result
 
+    def publication_in_obc(self):
+        """Return True if an article is found in the obc.ide /publications api response.
 
-def publication_in_obc(article):
-    """Return True if an article is found in the obc.ide /publications api response.
+        Otherwise, returns False. Checks against pmid first, then doi if pmid is
+        not found. Accepts one argument, a PubmedArticle instance.
+        """
+        entries = requests.get(OBC_IDE_URL).json()
 
-    Otherwise, returns False. Checks against pmid first, then doi if pmid is
-    not found. Accepts one argument, a PubmedArticle instance.
-    """
-    entries = requests.get(OBC_IDE_URL).json()
-
-    for entry in entries:
-        if article.pmid == entry["pmid"]:
-            return True
-        else:
-            if article.doi == entry["doi"]:
+        for entry in entries:
+            if self.pmid == entry["pmid"]:
                 return True
-    return False
+            else:
+                if self.doi == entry["doi"]:
+                    return True
+        return False
+

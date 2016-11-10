@@ -20,6 +20,7 @@ class TestObcPubmed(unittest.TestCase):
         res = requests.get(
             self.PUBMED_XML_URL.format(self.PARSE_TEST_PMID)
         ).text
+
         article_obj = obc.PubmedArticle(res)
 
         self.assertEqual(article_obj.doi, expected["doi"])
@@ -32,5 +33,5 @@ class TestObcPubmed(unittest.TestCase):
         )
 
         self.assertEqual(
-            obc.publication_in_obc(article_obj), True
+            article_obj.publication_in_obc(), True
         )
