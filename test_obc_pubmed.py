@@ -1,7 +1,7 @@
 import unittest
 import requests
 
-from obc_pubmed import obc_pubmed as obc
+from . import obc_pubmed as obc
 
 
 class TestObcPubmed(unittest.TestCase):
