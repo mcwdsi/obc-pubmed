@@ -20,11 +20,11 @@ class PubmedArticle():
     def _parse_xml(self, xml_str):
         # parse the data we're interested from the xml (passed as a string)
         # return the data as a dictionary
-        # function assumes that xml root is a PubMedArticleSet node,
-        # containing only one PubMedArticle
+        # function assumes that xml root is a PubMedArticle node,
+        # not a PubmedArticleSet node
         result = {"pmid": None, "doi": None}
         root = ET.fromstring(xml_str)
-        for article_id in root[0].find("PubmedData").find("ArticleIdList").findall("ArticleId"):
+        for article_id in root.find("PubmedData").find("ArticleIdList").findall("ArticleId"):
             if article_id.get("IdType") == "pubmed":
                 result["pmid"] = article_id.text
             elif article_id.get("IdType") == "doi":
@@ -57,10 +57,33 @@ class PubmedArticle():
         entries = requests.get(OBC_IDE_URL).json()
 
         for entry in entries:
-            if self.pmid == entry["pmid"]:
+            if self.pmid == entry.get("pmid", None):
                 return True
             else:
-                if self.doi == entry["doi"]:
+                if self.doi == entry.get("doi", None):
                     return True
         return False
 
+
+def sort_xml(path):
+    # sort PubmedArticles from specified .xml path into two buckets:
+    # those that are found in obc, and those that are not found in obc
+    in_obc = []
+    not_in_obc = []
+    # loop thru the <PubmedArticleSet> node
+    tree = ET.parse(path)
+    root = tree.getroot()
+    for node in root:
+        node = ET.tostring(node)
+        article = PubmedArticle(node)
+        if article.publication_in_obc():
+            in_obc.append(article)
+        else:
+            not_in_obc.append(article)
+    return in_obc, not_in_obc
+
+
+if __name__ == '__main__':
+    in_obc, not_in_obc = sort_xml('real_output.xml')
+    print("In OBC: " + str(len(in_obc)))
+    print("Not In OBC: " + str(len(not_in_obc)))
