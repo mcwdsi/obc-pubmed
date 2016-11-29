@@ -2,7 +2,7 @@ import unittest
 import requests
 import xml.etree.ElementTree as ET
 
-from . import obc_pubmed as obc
+import obc_pubmed.obc_pubmed as obc
 
 
 class TestObcPubmed(unittest.TestCase):
