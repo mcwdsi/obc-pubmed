@@ -2,7 +2,7 @@ import unittest
 import requests
 import xml.etree.ElementTree as ET
 
-from .obc import PubmedArticle, sort_xml
+from obc_pubmed.obc import PubmedArticle, sort_xml
 
 
 class TestObcPubmed(unittest.TestCase):
