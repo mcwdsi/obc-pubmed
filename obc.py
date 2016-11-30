@@ -17,13 +17,12 @@ class PubmedArticle():
         self.doi = data["doi"]
         self.pmid = data["pmid"]
 
-    def _parse_xml(self, xml_str):
+    def _parse_xml(self, root):
         # parse the data we're interested from the xml (passed as a string)
         # return the data as a dictionary
         # function assumes that xml root is a PubMedArticle node,
         # not a PubmedArticleSet node
         result = {"pmid": None, "doi": None}
-        root = ET.fromstring(xml_str)
         for article_id in root.find("PubmedData").find("ArticleIdList").findall("ArticleId"):
             if article_id.get("IdType") == "pubmed":
                 result["pmid"] = article_id.text
@@ -74,7 +73,6 @@ def sort_xml(path):
     tree = ET.parse(path)
     root = tree.getroot()
     for node in root:
-        node = ET.tostring(node)
         article = PubmedArticle(node)
         if article.publication_in_obc():
             in_obc.append(article)

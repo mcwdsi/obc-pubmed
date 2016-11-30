@@ -2,7 +2,7 @@ import unittest
 import requests
 import xml.etree.ElementTree as ET
 
-import obc
+from .obc import PubmedArticle, sort_xml
 
 
 class TestObcPubmed(unittest.TestCase):
@@ -22,10 +22,10 @@ class TestObcPubmed(unittest.TestCase):
             self.PUBMED_XML_URL.format(self.PARSE_TEST_PMID)
         ).text
 
-        root = ET.tostring(ET.fromstring(res)[0])
+        root = ET.fromstring(res)[0]
         print(root)
 
-        article_obj = obc.PubmedArticle(root)
+        article_obj = PubmedArticle(root)
 
         self.assertEqual(article_obj.doi, expected["doi"])
         self.assertEqual(article_obj.pmid, expected["pmid"])
@@ -33,15 +33,15 @@ class TestObcPubmed(unittest.TestCase):
     def test_publication_in_obc(self):
         # testing a pmid lookup
         res = requests.get(self.PUBMED_XML_URL.format(self.OBC_IDE_TEST_PMID)).text
-        root = ET.tostring(ET.fromstring(res)[0])
+        root = ET.fromstring(res)[0]
 
-        article_obj = obc.PubmedArticle(root)
+        article_obj = PubmedArticle(root)
 
         self.assertEqual(
             article_obj.publication_in_obc(), True
         )
 
     def test_sort_xml(self):
-        in_obc, not_in_obc = obc.sort_xml('real_output.xml')
+        in_obc, not_in_obc = sort_xml('real_output.xml')
         print(len(in_obc))
         print(len(not_in_obc))
