@@ -81,7 +81,18 @@ def sort_xml(path):
     return in_obc, not_in_obc
 
 
+def write_to_xml(lst, path):
+    # given a list of [PubmedArticle], write the list to xml file
+    strs = [ET.tostring(a.xml).decode('utf-8') + "\n" for a in lst]
+    with open(path, 'w') as f:
+        f.writelines(strs)
+    return
+
+
 if __name__ == '__main__':
     in_obc, not_in_obc = sort_xml('real_output.xml')
     print("In OBC: " + str(len(in_obc)))
     print("Not In OBC: " + str(len(not_in_obc)))
+
+    write_to_xml(in_obc, 'in_obc.xml')
+    write_to_xml(not_in_obc, 'not_in_obc.xml')
