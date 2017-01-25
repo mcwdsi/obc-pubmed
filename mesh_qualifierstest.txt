@@ -1,0 +1,53 @@
+Qualifiers Counts
+
+epidemiology: 344
+transmission: 180
+prevention & control: 144
+genetics: 120
+methods: 112
+virology: 106
+immunology: 99
+statistics & numerical data: 92
+drug therapy: 77
+microbiology: 70
+isolation & purification: 70
+therapeutic use: 68
+physiology: 53
+economics: 43
+administration & dosage: 43
+drug effects: 38
+classification: 33
+pathogenicity: 31
+diagnosis: 30
+mortality: 25
+pharmacology: 24
+blood: 20
+parasitology: 19
+veterinary: 15
+standards: 14
+trends: 13
+history: 13
+utilization: 11
+metabolism: 11
+supply & distribution: 10
+psychology: 10
+pathology: 10
+complications: 10
+chemistry: 10
+organization & administration: 8
+growth & development: 8
+etiology: 7
+therapy: 5
+analysis: 5
+adverse effects: 5
+ethnology: 3
+ethics: 3
+cytology: 3
+analogs & derivatives: 3
+legislation & jurisprudence: 2
+embryology: 2
+biosynthesis: 2
+antagonists & inhibitors: 2
+physiopathology: 1
+instrumentation: 1
+enzymology: 1

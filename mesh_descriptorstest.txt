@@ -1,0 +1,1187 @@
+Desc_UI    Descriptor Counts
+
+D006801    Humans: 517
+D007251    Influenza, Human: 139
+D005260    Female: 131
+D008297    Male: 128
+D000818    Animals: 113
+D000328    Adult: 110
+D000293    Adolescent: 100
+D002648    Child: 99
+D004196    Disease Outbreaks: 97
+D008962    Models, Theoretical: 95
+D008954    Models, Biological: 87
+D003198    Computer Simulation: 82
+D002675    Child, Preschool: 80
+D008875    Middle Aged: 71
+D055815    Young Adult: 70
+D015233    Models, Statistical: 68
+D014481    United States: 60
+D007223    Infant: 58
+D015994    Incidence: 56
+D000368    Aged: 48
+D013997    Time Factors: 40
+D012307    Risk Factors: 39
+D058872    Epidemics: 38
+D000465    Algorithms: 37
+D053118    Influenza A Virus, H1N1 Subtype: 36
+D015995    Prevalence: 36
+D003715    Dengue: 36
+D003141    Communicable Diseases: 34
+D015658    HIV Infections: 32
+D012621    Seasons: 32
+D011159    Population Surveillance: 31
+D058873    Pandemics: 30
+D013269    Stochastic Processes: 30
+D019142    Hemorrhagic Fever, Ebola: 29
+D010802    Phylogeny: 29
+D007231    Infant, Newborn: 28
+D007252    Influenza Vaccines: 27
+D002681    China: 27
+D000369    Aged, 80 and over: 27
+D003362    Cost-Benefit Analysis: 25
+D012189    Retrospective Studies: 24
+D003716    Dengue Virus: 24
+D000367    Age Factors: 24
+D014611    Vaccination: 23
+D005075    Biological Evolution: 23
+D000900    Anti-Bacterial Agents: 23
+D018562    Disease Transmission, Infectious: 22
+D006723    Hong Kong: 22
+D005843    Geography: 22
+D000995    Antitubercular Agents: 22
+D003140    Communicable Disease Control: 21
+D019143    Evolution, Molecular: 20
+D014644    Genetic Variation: 20
+D011157    Population Dynamics: 20
+D008957    Models, Genetic: 20
+D009980    Influenza A virus: 19
+D007303    Insect Vectors: 19
+D064766    Influenza A Virus, H7N9 Subtype: 18
+D018088    Tuberculosis, Multidrug-Resistant: 18
+D016896    Treatment Outcome: 18
+D016000    Cluster Analysis: 18
+D014376    Tuberculosis: 18
+D011634    Public Health: 18
+D009154    Mutation: 18
+D009033    Culicidae: 18
+D008288    Malaria: 18
+D000914    Antibodies, Viral: 18
+D014943    Global Health: 17
+D013203    Staphylococcal Infections: 17
+D008969    Molecular Sequence Data: 17
+D005191    Family Characteristics: 17
+D024881    Drug Resistance, Bacterial: 16
+D019295    Computational Biology: 16
+D018570    Risk Assessment: 16
+D018448    Models, Immunological: 16
+D012641    Selection, Genetic: 16
+D009169    Mycobacterium tuberculosis: 16
+D003428    Cross Infection: 16
+D055624    Methicillin-Resistant Staphylococcus aureus: 15
+D050936    Basic Reproduction Number: 15
+D013296    Streptococcus pneumoniae: 15
+D005838    Genotype: 15
+D002771    Cholera: 15
+D000998    Antiviral Agents: 15
+D054884    Host-Pathogen Interactions: 14
+D053122    Influenza A Virus, H3N2 Subtype: 14
+D029043    Ebolavirus: 14
+D015331    Cohort Studies: 14
+D006760    Hospitalization: 14
+D016013    Likelihood Functions: 13
+D012959    Socioeconomic Factors: 13
+D011446    Prospective Studies: 13
+D003627    Data Interpretation, Statistical: 13
+D000330    Aedes: 13
+D021821    Communicable Diseases, Emerging: 12
+D016358    Contact Tracing: 12
+D015203    Reproducibility of Results: 12
+D001499    Bayes Theorem: 12
+D018803    Models, Economic: 11
+D017720    Molecular Epidemiology: 11
+D017422    Sequence Analysis, DNA: 11
+D016208    Databases, Factual: 11
+D013019    South Africa: 11
+D012680    Sensitivity and Specificity: 11
+D011200    Poultry: 11
+D010963    Plasmodium falciparum: 11
+D009975    Orthomyxoviridae: 11
+D008826    Microbial Sensitivity Tests: 11
+D008457    Measles: 11
+D008137    Longitudinal Studies: 11
+D003430    Cross-Sectional Studies: 11
+D002140    California: 11
+D062665    Epidemiological Monitoring: 10
+D049673    History, 20th Century: 10
+D040421    Cell Phones: 10
+D032541    Mass Vaccination: 10
+D024901    Drug Resistance, Multiple, Bacterial: 10
+D017677    Age Distribution: 10
+D016680    Genome, Bacterial: 10
+D016036    Seroepidemiologic Studies: 10
+D015982    Bias (Epidemiology): 10
+D014505    Urban Population: 10
+D014195    Travel: 10
+D013785    Thailand: 10
+D012703    Serotyping: 10
+D011336    Probability: 10
+D009010    Monte Carlo Method: 10
+D005585    Influenza in Birds: 10
+D005544    Forecasting: 10
+D000940    Antigenic Variation: 10
+D000354    Africa, Western: 10
+D053059    Dengue Vaccines: 9
+D017954    Africa South of the Sahara: 9
+D017048    Health Care Costs: 9
+D016032    Randomized Controlled Trials as Topic: 9
+D012984    Software: 9
+D010641    Phenotype: 9
+D009981    Influenza B virus: 9
+D006306    Health Surveys: 9
+D004812    Epidemiologic Methods: 9
+D003625    Data Collection: 9
+D055256    Infectious Disease Incubation Period: 8
+D049674    History, 21st Century: 8
+D023281    Genomics: 8
+D018571    Sentinel Surveillance: 8
+D016778    Malaria, Falciparum: 8
+D016015    Logistic Models: 8
+D014612    Vaccines: 8
+D013045    Species Specificity: 8
+D012807    Sierra Leone: 8
+D012720    Severity of Illness Index: 8
+D012574    Schools: 8
+D012306    Risk: 8
+D011156    Population Density: 8
+D011008    Pneumococcal Infections: 8
+D010568    Peru: 8
+D010414    Pennsylvania: 8
+D007988    Liberia: 8
+D003710    Demography: 8
+D003661    Decision Support Techniques: 8
+D062486    Public Health Surveillance: 7
+D062211    Spatio-Temporal Analysis: 7
+D060085    Coinfection: 7
+D053124    Influenza A Virus, H5N1 Subtype: 7
+D017753    Ecosystem: 7
+D017589    Immunization Programs: 7
+D014734    Vibrio cholerae: 7
+D007630    Kenya: 7
+D006291    Health Policy: 7
+D005828    Genetics, Population: 7
+D004189    Disaster Planning: 7
+D002353    Carrier State: 7
+D000956    Antigens, Viral: 7
+D060756    Social Networking: 6
+D051379    Mice: 6
+D037621    Artemisinins: 6
+D024882    Drug Resistance, Viral: 6
+D020641    Polymorphism, Single Nucleotide: 6
+D020407    Internet: 6
+D019057    Quality-Adjusted Life Years: 6
+D017281    Cost of Illness: 6
+D017053    Infection Control: 6
+D016017    Odds Ratio: 6
+D015047    Zoonoses: 6
+D014397    Tuberculosis, Pulmonary: 6
+D014141    Trachoma: 6
+D012919    Social Behavior: 6
+D012737    Sex Factors: 6
+D012424    Rural Population: 6
+D012141    Respiratory Tract Infections: 6
+D012107    Research Design: 6
+D011795    Surveys and Questionnaires: 6
+D008403    Mass Screening: 6
+D007194    India: 6
+D007113    Immunity, Innate: 6
+D006385    Hemagglutination Inhibition Tests: 6
+D006205    Haiti: 6
+D004352    Drug Resistance, Microbial: 6
+D004269    DNA, Bacterial: 6
+D004198    Disease Susceptibility: 6
+D003906    Developing Countries: 6
+D003365    Costs and Cost Analysis: 6
+D001419    Bacteria: 6
+D000595    Amino Acid Sequence: 6
+D000375    Aging: 6
+D065632    Chikungunya Fever: 5
+D065207    Middle East Respiratory Syndrome Coronavirus: 5
+D060888    Real-Time Polymerase Chain Reaction: 5
+D057134    Antibodies, Neutralizing: 5
+D056084    Genetic Fitness: 5
+D035843    Biomedical Research: 5
+D035501    Uncertainty: 5
+D029821    Enterovirus A, Human: 5
+D019380    Anti-HIV Agents: 5
+D019353    Endemic Diseases: 5
+D017063    Outcome Assessment (Health Care): 5
+D016014    Linear Models: 5
+D015999    Multivariate Analysis: 5
+D015800    Protozoan Proteins: 5
+D015497    HIV-1: 5
+D014917    Whooping Cough: 5
+D013552    Swine: 5
+D012367    RNA, Viral: 5
+D012309    Risk-Taking: 5
+D011995    Recombination, Genetic: 5
+D011329    Prisoners: 5
+D011014    Pneumonia: 5
+D009976    Orthomyxoviridae Infections: 5
+D009032    Mosquito Control: 5
+D009026    Mortality: 5
+D008432    Mathematical Computing: 5
+D007843    Latin America: 5
+D007700    Kinetics: 5
+D007538    Isoniazid: 5
+D006761    Hospitals: 5
+D006297    Health Services Accessibility: 5
+D006232    Hand, Foot and Mouth Disease: 5
+D006113    Great Britain: 5
+D005759    Gastroenteritis: 5
+D005500    Follow-Up Studies: 5
+D005060    Europe: 5
+D002947    Cities: 5
+D001938    Brazil: 5
+D000890    Anti-Infective Agents: 5
+D000871    Anthelmintics: 5
+D000553    Ambulatory Care: 5
+D000284    Administration, Oral: 5
+D062306    Geography, Medical: 4
+D060740    Disease Eradication: 4
+D059014    High-Throughput Nucleotide Sequencing: 4
+D053208    Kaplan-Meier Estimate: 4
+D053139    Oseltamivir: 4
+D046129    Ebola Vaccines: 4
+D045169    Severe Acute Respiratory Syndrome: 4
+D040362    Geographic Information Systems: 4
+D022761    Gene Transfer, Horizontal: 4
+D020577    Wolbachia: 4
+D019562    Viral Load: 4
+D019267    Hemagglutinin Glycoproteins, Influenza Virus: 4
+D018450    Disease Progression: 4
+D018352    Coronavirus Infections: 4
+D017963    Azithromycin: 4
+D017721    Hospital Costs: 4
+D017714    Community-Acquired Infections: 4
+D017201    Virus Shedding: 4
+D016701    Guinea: 4
+D016679    Genome, Viral: 4
+D016415    Sequence Alignment: 4
+D016360    Clostridium difficile: 4
+D016022    Case-Control Studies: 4
+D014944    World Health Organization: 4
+D014777    Virus Diseases: 4
+D014774    Virulence: 4
+D014765    Viral Vaccines: 4
+D013781    Texas: 4
+D013696    Temperature: 4
+D013636    Tanzania: 4
+D013601    T-Lymphocytes: 4
+D013211    Staphylococcus aureus: 4
+D013029    Space-Time Clustering: 4
+D012747    Sexual Partners: 4
+D012295    Rift Valley Fever: 4
+D012111    Residence Characteristics: 4
+D012008    Recurrence: 4
+D010351    Patient Discharge: 4
+D010045    Outpatients: 4
+D009519    New York City: 4
+D009439    Neuraminidase: 4
+D009344    Neisseria gonorrhoeae: 4
+D007239    Infection: 4
+D007115    Immunization Schedule: 4
+D006790    Host-Parasite Interactions: 4
+D006678    HIV: 4
+D006069    Gonorrhea: 4
+D005787    Gene Frequency: 4
+D005786    Gene Expression Regulation: 4
+D005536    Foot-and-Mouth Disease: 4
+D004926    Escherichia coli: 4
+D004784    Environmental Monitoring: 4
+D004285    Dogs: 4
+D004199    Disease Vectors: 4
+D004195    Disease Models, Animal: 4
+D003695    Delivery of Health Care: 4
+D002692    Chlamydia trachomatis: 4
+D002417    Cattle: 4
+D001483    Base Sequence: 4
+D001426    Bacterial Proteins: 4
+D001424    Bacterial Infections: 4
+D000962    Antimalarials: 4
+D000891    Anti-Infective Agents, Local: 4
+D000220    Adaptation, Biological: 4
+D000041    Absenteeism: 4
+D058491    Bacterial Load: 3
+D056704    Adaptive Immunity: 3
+D056265    Microbial Interactions: 3
+D051456    Gene Flow: 3
+D029322    Norovirus: 3
+D023482    Bioterrorism: 3
+D022242    Pneumococcal Vaccines: 3
+D022121    Cholera Vaccines: 3
+D020133    Reverse Transcriptase Polymerase Chain Reaction: 3
+D020010    Heterosexuality: 3
+D019540    Area Under Curve: 3
+D018709    Statistics, Nonparametric: 3
+D018451    Homosexuality, Male: 3
+D018357    Respiratory Syncytial Virus Infections: 3
+D016481    Helicobacter Infections: 3
+D016480    Helicobacter pylori: 3
+D016134    Organizational Policy: 3
+D016106    Methicillin Resistance: 3
+D016019    Survival Analysis: 3
+D016012    Poisson Distribution: 3
+D015996    Survival Rate: 3
+D015984    Causality: 3
+D015897    Comorbidity: 3
+D015438    Health Behavior: 3
+D015340    Epidemiologic Research Design: 3
+D015164    Vaccines, Inactivated: 3
+D015030    Zimbabwe: 3
+D014871    Water Microbiology: 3
+D014779    Virus Replication: 3
+D014744    Vietnam: 3
+D014454    Uganda: 3
+D014355    Chagas Disease: 3
+D014186    Transportation: 3
+D013334    Students: 3
+D013048    Specimen Handling: 3
+D012899    Smallpox: 3
+D012749    Sexually Transmitted Diseases: 3
+D012725    Sexual Behavior: 3
+D012675    Senegal: 3
+D012552    Schistosomiasis: 3
+D012550    Schistosoma mansoni: 3
+D012548    Schistosoma haematobium: 3
+D012372    ROC Curve: 3
+D012296    Rift Valley fever virus: 3
+D012106    Research: 3
+D011891    Rain: 3
+D011379    Prognosis: 3
+D011307    Drug Prescriptions: 3
+D011247    Pregnancy: 3
+D011237    Predictive Value of Tests: 3
+D011223    Praziquantel: 3
+D011201    Poultry Diseases: 3
+D011018    Pneumonia, Pneumococcal: 3
+D010360    Patient Transfer: 3
+D009548    Niger: 3
+D009500    Neutralization Tests: 3
+D008966    Moldova: 3
+D008397    Masks: 3
+D008396    Maryland: 3
+D008390    Markov Chains: 3
+D008253    Macaca mulatta: 3
+D007902    Length of Stay: 3
+D007722    Health Knowledge, Attitudes, Practice: 3
+D007391    International Cooperation: 3
+D007362    Intensive Care Units: 3
+D007299    Insect Bites and Stings: 3
+D007249    Inflammation: 3
+D007156    Immunologic Memory: 3
+D006295    Health Resources: 3
+D006282    Health Personnel: 3
+D006193    Haemophilus influenzae: 3
+D005798    Genes, Bacterial: 3
+D005243    Feces: 3
+D005192    Family Health: 3
+D004927    Escherichia coli Infections: 3
+D004522    Educational Status: 3
+D004359    Drug Therapy, Combination: 3
+D004197    Disease Reservoirs: 3
+D003955    Diagnostic Tests, Routine: 3
+D003713    Dendritic Cells: 3
+D003015    Clostridium Infections: 3
+D002986    Clinical Trials as Topic: 3
+D002980    Climate: 3
+D002710    Chlorhexidine: 3
+D002487    Centers for Disease Control and Prevention (U.S.): 3
+D001741    African Americans: 3
+D001717    Birds: 3
+D001459    Bangladesh: 3
+D001210    Asia, Southeastern: 3
+D000942    Antigens, Bacterial: 3
+D000835    Animals, Wild: 3
+D000822    Animal Husbandry: 3
+D000046    Academic Medical Centers: 3
+D065288    Serogroup: 2
+D064887    Observational Studies as Topic: 2
+D062206    Spatial Analysis: 2
+D059765    Homologous Recombination: 2
+D058974    Phylogeography: 2
+D058889    Molecular Typing: 2
+D058885    Multilocus Sequence Typing: 2
+D058751    Livestock: 2
+D058345    Asymptomatic Infections: 2
+D057566    Self Report: 2
+D057148    Insecticide-Treated Bednets: 2
+D057147    Mosquito Nets: 2
+D056738    Cross Protection: 2
+D055985    Latent Tuberculosis: 2
+D055641    Mathematical Concepts: 2
+D055552    Infectious Disease Medicine: 2
+D054624    Health Status Disparities: 2
+D054323    Shiga-Toxigenic Escherichia coli: 2
+D054316    Biomarkers, Pharmacological: 2
+D053263    Gene Regulatory Networks: 2
+D049490    Systems Biology: 2
+D045473    SARS Virus: 2
+D044966    Anti-Retroviral Agents: 2
+D044465    European Continental Ancestry Group: 2
+D041981    Gastrointestinal Tract: 2
+D040981    Acinetobacter baumannii: 2
+D040841    Resource Allocation: 2
+D037521    Virulence Factors: 2
+D036781    Fimbriae Proteins: 2
+D033181    Information Dissemination: 2
+D032984    Ethics, Research: 2
+D032521    Immunity, Herd: 2
+D030801    Animals, Genetically Modified: 2
+D030541    Databases, Genetic: 2
+D029524    Influenzavirus B: 2
+D025202    Molecular Diagnostic Techniques: 2
+D025041    Animal Migration: 2
+D023241    Antiretroviral Therapy, Highly Active: 2
+D023061    Gene Order: 2
+D020071    Interspersed Repetitive Sequences: 2
+D019538    Health Care Surveys: 2
+D019476    Insect Proteins: 2
+D019371    Topography, Medical: 2
+D019370    Observation: 2
+D019352    Censuses: 2
+D019317    Evidence-Based Medicine: 2
+D019277    Entropy: 2
+D018890    Chemoprevention: 2
+D018740    Genetic Heterogeneity: 2
+D018598    Minisatellite Repeats: 2
+D018445    Infectious Disease Transmission, Vertical: 2
+D018401    Sample Size: 2
+D017711    Nonlinear Dynamics: 2
+D017598    Efficiency, Organizational: 2
+D017434    Protein Structure, Tertiary: 2
+D017250    Caliciviridae Infections: 2
+D017211    Treatment Failure: 2
+D017146    Models, Organizational: 2
+D016915    AIDS Vaccines: 2
+D016908    Gram-Positive Bacterial Infections: 2
+D016667    Bacterial Capsules: 2
+D016527    Drug Costs: 2
+D016273    Occupational Exposure: 2
+D016207    Cytokines: 2
+D016133    Polymerase Chain Reaction: 2
+D016016    Proportional Hazards Models: 2
+D016001    Confidence Intervals: 2
+D015986    Confounding Factors (Epidemiology): 2
+D015983    Selection Bias: 2
+D015870    Gene Expression: 2
+D015496    CD4-Positive T-Lymphocytes: 2
+D015024    Zambia: 2
+D014887    Weather: 2
+D014881    Water Supply: 2
+D014780    Viruses: 2
+D014766    Viremia: 2
+D014495    Universities: 2
+D014435    Typhoid Fever: 2
+D014370    Tsetse Flies: 2
+D014353    Trypanosomiasis, African: 2
+D013559    Symbiosis: 2
+D013553    Swine Diseases: 2
+D013530    Surgical Wound Infection: 2
+D013212    Staphylococcus epidermidis: 2
+D013207    Staphylococcal Skin Infections: 2
+D013171    Spores, Bacterial: 2
+D012944    Social Support: 2
+D012931    Social Environment: 2
+D012760    Shigella: 2
+D012756    Sheep: 2
+D012623    Seawater: 2
+D012572    School Health Services: 2
+D012463    Saliva: 2
+D012423    Rural Health: 2
+D012400    Rotavirus Infections: 2
+D012282    Rickettsia Infections: 2
+D012136    Respiratory Syncytial Viruses: 2
+D012044    Regression Analysis: 2
+D011819    Rabies Vaccines: 2
+D011818    Rabies: 2
+D011330    Prisons: 2
+D011300    Preoperative Care: 2
+D011203    Poverty: 2
+D011051    Poliomyelitis: 2
+D011050    Policy Making: 2
+D010961    Plasmodium: 2
+D010948    Viral Plaque Assay: 2
+D010919    Placebos: 2
+D010818    Practice Patterns, Physicians': 2
+D010614    Pharynx: 2
+D010567    Pertussis Vaccine: 2
+D010342    Patient Acceptance of Health Care: 2
+D010270    Parasite Egg Count: 2
+D009937    Organizational Objectives: 2
+D009765    Obesity: 2
+D009666    Nose: 2
+D009426    Netherlands: 2
+D009369    Neoplasms: 2
+D008831    Microcephaly: 2
+D008807    Mice, Inbred BALB C: 2
+D008800    Mexico: 2
+D008458    Measles Vaccine: 2
+D008404    Massachusetts: 2
+D008198    Lymph Nodes: 2
+D008193    Lyme Disease: 2
+D008168    Lung: 2
+D007422    Intestines: 2
+D007398    Interpersonal Relations: 2
+D007198    Indians, North American: 2
+D007111    Immunity, Cellular: 2
+D007074    Immunoglobulin G: 2
+D006813    Humidity: 2
+D006706    Homeostasis: 2
+D006679    HIV Seropositivity: 2
+D006526    Hepatitis C: 2
+D006388    Hemagglutinins: 2
+D006304    Health Status: 2
+D006302    Health Services Research: 2
+D006301    Health Services Needs and Demand: 2
+D006235    Hand Disinfection: 2
+D005818    Genetic Engineering: 2
+D005810    Multigene Family: 2
+D005800    Genes, Fungal: 2
+D005716    Game Theory: 2
+D005517    Foodborne Diseases: 2
+D005239    Fear: 2
+D005190    Family: 2
+D005002    Ethiopia: 2
+D004917    Erythromycin: 2
+D004912    Erythrocytes: 2
+D004847    Epithelial Cells: 2
+D004813    Epidemiology: 2
+D004797    Enzyme-Linked Immunosorbent Assay: 2
+D004781    Environmental Exposure: 2
+D004777    Environment: 2
+D004770    Enterovirus: 2
+D004755    Enterobacteriaceae: 2
+D004641    Emigration and Immigration: 2
+D004526    Efficiency: 2
+D004405    Dysentery, Bacillary: 2
+D004372    Ducks: 2
+D004356    Drug Storage: 2
+D004351    Drug Resistance: 2
+D004283    Dog Diseases: 2
+D004219    District of Columbia: 2
+D003967    Diarrhea: 2
+D003657    Decision Making: 2
+D003429    Cross Reactions: 2
+D003062    Codon: 2
+D002939    Ciprofloxacin: 2
+D002908    Chronic Disease: 2
+D002874    Chromosome Mapping: 2
+D002690    Chlamydia Infections: 2
+D002646    Chikungunya virus: 2
+D001902    Botswana: 2
+D001699    Biometry: 2
+D001519    Behavior: 2
+D001428    Bacterial Vaccines: 2
+D001425    Bacterial Outer Membrane Proteins: 2
+D001408    Bacillus anthracis: 2
+D001118    Argentina: 2
+D000953    Antigens, Protozoan: 2
+D000941    Antigens: 2
+D000829    Animals, Domestic: 2
+D000704    Analysis of Variance: 2
+D000383    Agriculture: 2
+D000349    Africa: 2
+D000294    Adolescent Behavior: 2
+D000222    Adaptation, Physiological: 2
+D000208    Acute Disease: 2
+D000151    Acinetobacter Infections: 2
+D000071244    Zika Virus: 2
+D000071243    Zika Virus Infection: 2
+D066027    Transplant Recipients: 1
+D064704    Levofloxacin: 1
+D064349    Genome, Microbial: 1
+D064307    Microbiota: 1
+D064166    Vaccine Potency: 1
+D063426    Human Migration: 1
+D063373    Hand Hygiene: 1
+D061665    Time-to-Treatment: 1
+D061067    Antibodies, Monoclonal, Humanized: 1
+D060766    Drinking Water: 1
+D060435    Carnivory: 1
+D060434    Herbivory: 1
+D060386    Sex Workers: 1
+D060152    V(D)J Recombination: 1
+D059645    Mutation Rate: 1
+D059000    El Nino-Southern Oscillation: 1
+D058507    Host Specificity: 1
+D058260    Xenopsylla: 1
+D058251    Ctenocephalides: 1
+D058016    Health Facility Administration: 1
+D057766    Policy: 1
+D057286    Electronic Health Records: 1
+D057231    Climate Change: 1
+D057221    Influenza A Virus, H1N2 Subtype: 1
+D057210    Delayed Diagnosis: 1
+D057170    Translational Medical Research: 1
+D057131    Immune Evasion: 1
+D056910    Republic of Korea: 1
+D056808    Biostatistics: 1
+D056726    Genetic Association Studies: 1
+D056724    Immunity, Humoral: 1
+D056426    Genetic Loci: 1
+D056186    Metagenomics: 1
+D055877    Biosurveillance: 1
+D055810    Lot Quality Assurance Sampling: 1
+D055808    Drug Discovery: 1
+D055786    Gene Knockout Techniques: 1
+D055691    Ecological and Environmental Processes: 1
+D055502    Secondary Prevention: 1
+D055355    Opsins: 1
+D055118    Medication Adherence: 1
+D054892    Metagenome: 1
+D054524    Medicare Part D: 1
+D054357    Chemokine CXCL10: 1
+D054332    Leishmaniasis Vaccines: 1
+D054302    pol Gene Products, Human Immunodeficiency Virus: 1
+D054299    env Gene Products, Human Immunodeficiency Virus: 1
+D054242    Emigrants and Immigrants: 1
+D053858    Metabolic Networks and Pathways: 1
+D053476    Extinction, Biological: 1
+D053243    Zanamivir: 1
+D053125    Influenza A Virus, H5N2 Subtype: 1
+D052586    Mating Preference, Animal: 1
+D051996    Transcription Factor RelA: 1
+D051193    Toll-Like Receptors: 1
+D050839    Interferon Regulatory Factor-7: 1
+D050838    Interferon Regulatory Factor-3: 1
+D050378    T-Lymphocytes, Regulatory: 1
+D050296    Microbial Viability: 1
+D050172    Genes, X-Linked: 1
+D049832    Decapodiformes: 1
+D049810    Genetic Speciation: 1
+D049672    History, 19th Century: 1
+D048908    Aliivibrio fischeri: 1
+D048788    Growth and Development: 1
+D047495    PPAR gamma: 1
+D046915    Penicillin-Binding Proteins: 1
+D045908    Monkeypox: 1
+D045424    Complex Mixtures: 1
+D044822    Biodiversity: 1
+D044127    Epigenesis, Genetic: 1
+D041241    Vibrio cholerae O1: 1
+D041161    Rickettsia felis: 1
+D040961    Genetic Drift: 1
+D040941    Heredity: 1
+D040681    Structural Homology, Protein: 1
+D040582    Inheritance Patterns: 1
+D038801    International Classification of Diseases: 1
+D036301    Qualitative Research: 1
+D036022    Capsid Proteins: 1
+D035846    Law Enforcement: 1
+D035842    Research Subjects: 1
+D033183    Interdisciplinary Communication: 1
+D030361    Papillomavirus Infections: 1
+D029544    Foot-and-Mouth Disease Virus: 1
+D029521    Influenzavirus A: 1
+D028981    Bornaviridae: 1
+D028681    Moral Obligations: 1
+D026801    Synteny: 1
+D025341    Principal Component Analysis: 1
+D023801    Directly Observed Therapy: 1
+D022781    Hepatocytes: 1
+D022681    Diphtheria-Tetanus-acellular Pertussis Vaccines: 1
+D022661    RNA, Untranslated: 1
+D022542    Measles-Mumps-Rubella Vaccine: 1
+D021261    Parasitic Sensitivity Tests: 1
+D020713    Vancomycin Resistance: 1
+D020682    Cefixime: 1
+D020563    Gammaproteobacteria: 1
+D020387    Food Chain: 1
+D020380    Needs Assessment: 1
+D020224    Expressed Sequence Tags: 1
+D019999    Pharmaceutical Solutions: 1
+D019984    Quality Indicators, Health Care: 1
+D019982    Organizational Case Studies: 1
+D019943    Amino Acid Substitution: 1
+D019840    2-Propanol: 1
+D019637    Orthopedic Procedures: 1
+D019636    Neurodegenerative Diseases: 1
+D019595    Severe Dengue: 1
+D019587    Dietary Supplements: 1
+D019548    Crime Victims: 1
+D019529    Sexuality: 1
+D019458    Insurance Coverage: 1
+D019433    Chickenpox Vaccine: 1
+D019411    Clinical Laboratory Techniques: 1
+D019368    Nature: 1
+D019233    Retreatment: 1
+D019138    Antibodies, Blocking: 1
+D019090    Case Management: 1
+D019076    Transgenes: 1
+D019072    Antibiotic Prophylaxis: 1
+D019070    Cell Lineage: 1
+D019067    Antibody-Dependent Enhancement: 1
+D019037    Urban Health Services: 1
+D019033    Delivery of Health Care, Integrated: 1
+D019008    Drug Resistance, Neoplasm: 1
+D018985    Epitopes, B-Lymphocyte: 1
+D018984    Epitopes, T-Lymphocyte: 1
+D018942    Macrolides: 1
+D018928    Immunity, Mucosal: 1
+D018895    Microsatellite Repeats: 1
+D018829    Adhesins, Bacterial: 1
+D018805    Sepsis: 1
+D018791    CD4 Lymphocyte Count: 1
+D018672    Community Health Planning: 1
+D018655    Lymphocyte Count: 1
+D018579    Patient Selection: 1
+D018550    Cephalosporin Resistance: 1
+D018508    Water Purification: 1
+D018419    Primate Diseases: 1
+D018414    CD8-Positive T-Lymphocytes: 1
+D018345    Mice, Knockout: 1
+D018113    Respiratory Syncytial Virus, Human: 1
+D018103    Morbillivirus: 1
+D018074    Vaccines, Conjugate: 1
+D017993    Parvovirus, Canine: 1
+D017931    DNA Primers: 1
+D017751    Safety Management: 1
+D017741    Survivors: 1
+D017735    Virus Latency: 1
+D017678    Sex Distribution: 1
+D017668    Age of Onset: 1
+D017592    Skin Care: 1
+D017534    Radial Artery: 1
+D017507    Comoros: 1
+D017433    Protein Structure, Secondary: 1
+D017421    Sequence Analysis: 1
+D017410    Practice Guidelines as Topic: 1
+D017386    Sequence Homology, Amino Acid: 1
+D017385    Sequence Homology: 1
+D017382    Reactive Oxygen Species: 1
+D017353    Gene Deletion: 1
+D017322    Clinical Trials, Phase II as Topic: 1
+D017320    HIV Protease Inhibitors: 1
+D017282    Tick-Borne Diseases: 1
+D017280    Condoms: 1
+D017150    Public Sector: 1
+D017143    Fuzzy Logic: 1
+D017132    Workplace: 1
+D017125    Genes, Protozoan: 1
+D017062    Small-Area Analysis: 1
+D017059    Models, Econometric: 1
+D017052    Hospital Mortality: 1
+D017046    Cost Savings: 1
+D017028    Caregivers: 1
+D017023    Coronary Angiography: 1
+D016984    Enterococcus faecium: 1
+D016983    Enterococcus: 1
+D016922    Cell Aging: 1
+D016902    Air Pollution, Indoor: 1
+D016867    Immunocompromised Host: 1
+D016865    Reassortant Viruses: 1
+D016790    Plasmodium knowlesi: 1
+D016788    Plasmodium chabaudi: 1
+D016773    Leishmaniasis, Cutaneous: 1
+D016712    Mupirocin: 1
+D016681    Genome, Fungal: 1
+D016678    Genome: 1
+D016656    Family Planning Policy: 1
+D016601    RNA-Binding Proteins: 1
+D016521    Electrophoresis, Gel, Pulsed-Field: 1
+D016353    Self-Examination: 1
+D016347    Medical Records Systems, Computerized: 1
+D016266    Food Parasitology: 1
+D016265    Conflict of Interest: 1
+D016247    Information Storage and Retrieval: 1
+D016233    Immunotherapy, Active: 1
+D016206    Databases, Bibliographic: 1
+D016174    Hepacivirus: 1
+D016052    Protozoan Vaccines: 1
+D016040    Lung Transplantation: 1
+D016027    Heart Transplantation: 1
+D016021    Epidemiologic Studies: 1
+D016018    Least-Squares Analysis: 1
+D016010    Binomial Distribution: 1
+D015980    Public Health Practice: 1
+D015906    Angioplasty, Balloon, Coronary: 1
+D015818    Eye Infections, Bacterial: 1
+D015748    Borrelia burgdorferi Group: 1
+D015721    Diphtheria-Tetanus-Pertussis Vaccine: 1
+D015588    Observer Variation: 1
+D015483    HIV Antibodies: 1
+D015415    Biomarkers: 1
+D015398    Signal Transduction: 1
+D015363    Quinolones: 1
+D015322    Gene Rearrangement, B-Lymphocyte: 1
+D015276    Health Care Rationing: 1
+D015229    Sexually Transmitted Diseases, Viral: 1
+D015212    Inflammatory Bowel Diseases: 1
+D015146    Midwestern United States: 1
+D015143    Philadelphia: 1
+D015023    Democratic Republic of the Congo: 1
+D014919    Wind: 1
+D014901    West Nile Fever: 1
+D014867    Water: 1
+D014861    Washington: 1
+D014852    Wales: 1
+D014807    Vitamin D: 1
+D014781    Viscera: 1
+D014768    Virginia: 1
+D014764    Viral Proteins: 1
+D014763    Viral Matrix Proteins: 1
+D014758    Viral Core Proteins: 1
+D014733    Vibrio: 1
+D014691    Ventilation: 1
+D014687    Venezuela: 1
+D014640    Vancomycin: 1
+D014584    User-Computer Interface: 1
+D014504    Urban Health: 1
+D014480    United Nations: 1
+D014455    Ukraine: 1
+D014436    Typhoid-Paratyphoid Vaccines: 1
+D014380    Tuberculosis, Bovine: 1
+D014374    Tuberculin Test: 1
+D014349    Trypanosoma cruzi: 1
+D014346    Trypanosoma brucei brucei: 1
+D014342    Truth Disclosure: 1
+D014329    Tropical Climate: 1
+D014218    Triage: 1
+D014123    Toxoplasmosis: 1
+D013995    Time: 1
+D013987    Ticks: 1
+D013950    Thymus Gland: 1
+D013850    Thinking: 1
+D013782    Textbooks as Topic: 1
+D013598    Systems Theory: 1
+D013597    Systems Analysis: 1
+D013577    Syndrome: 1
+D013315    Stress, Psychological: 1
+D013301    Streptolysins: 1
+D013297    Streptococcus pyogenes: 1
+D013293    Enterococcus faecalis: 1
+D013223    Statistics as Topic: 1
+D013209    Staphylococcal Vaccines: 1
+D013020    South America: 1
+D012988    Soil Microbiology: 1
+D012987    Soil: 1
+D012923    Social Class: 1
+D012907    Smoking: 1
+D012903    Smell: 1
+D012846    Singapore: 1
+D012757    Sheep Diseases: 1
+D012727    Sex Characteristics: 1
+D012651    Self Medication: 1
+D012648    Self Care: 1
+D012646    Self Administration: 1
+D012637    Security Measures: 1
+D012634    Bodily Secretions: 1
+D012581    Schools, Public Health: 1
+D012555    Schistosomiasis mansoni: 1
+D012553    Schistosomiasis haematobia: 1
+D012541    Scarlet Fever: 1
+D012529    Saudi Arabia: 1
+D012494    Sampling Studies: 1
+D012485    Salmonella typhi: 1
+D012482    Salmonella paratyphi A: 1
+D012475    Salmonella: 1
+D012471    Salivary Proteins and Peptides: 1
+D012469    Salivary Glands: 1
+D012456    Salaries and Fringe Benefits: 1
+D012441    Saccharomyces cerevisiae: 1
+D012426    Russia: 1
+D012409    Rubella: 1
+D012401    Rotavirus: 1
+D012376    Rodent Diseases: 1
+D012336    RNA, Ribosomal, 16S: 1
+D012329    RNA, Bacterial: 1
+D012328    RNA Viruses: 1
+D012293    Rifampin: 1
+D012281    Rickettsia: 1
+D012134    Respiratory Protective Devices: 1
+D012098    Reproduction: 1
+D011897    Random Allocation: 1
+D011820    Rabies virus: 1
+D011817    Rabbits: 1
+D011790    Quarantine: 1
+D011787    Quality of Health Care: 1
+D011786    Quality Control: 1
+D011647    Puerto Rico: 1
+D011640    Public Policy: 1
+D011639    Public Opinion: 1
+D011635    Public Health Administration: 1
+D011558    Herpesvirus 1, Suid: 1
+D011557    Pseudorabies: 1
+D011358    Product Surveillance, Postmarketing: 1
+D011323    Primates: 1
+D011314    Preventive Health Services: 1
+D011295    Prenatal Care: 1
+D011251    Pregnancy Complications, Infectious: 1
+D011158    Population Growth: 1
+D011155    Population Control: 1
+D011114    Polynesia: 1
+D010957    Plasmids: 1
+D010930    Plague: 1
+D010820    Physicians: 1
+D010679    Philippines: 1
+D010594    Pharmacies: 1
+D010572    Pest Control, Biological: 1
+D010465    Perception: 1
+D010406    Penicillins: 1
+D010349    Patient Compliance: 1
+D010322    Parvoviridae Infections: 1
+D010290    Parents: 1
+D010284    Paratyphoid Fever: 1
+D010272    Parasitic Diseases: 1
+D010154    Pakistan: 1
+D010140    Pacific Ocean: 1
+D010067    Ownership: 1
+D010063    Ovum: 1
+D009936    Organizational Innovation: 1
+D009876    Operon: 1
+D009862    Online Systems: 1
+D009819    Office Visits: 1
+D009792    Oceans and Seas: 1
+D009749    Nutrition Surveys: 1
+D009735    Nursing Homes: 1
+D009656    North America: 1
+D009626    Terminology as Topic: 1
+D009549    Nigeria: 1
+D009527    Nicaragua: 1
+D009518    New York: 1
+D009511    New England: 1
+D009390    Nepal: 1
+D009345    Neisseria meningitidis: 1
+D009343    Neisseria: 1
+D009305    Nasopharynx: 1
+D009297    Nasal Mucosa: 1
+D009276    Namibia: 1
+D009163    Mycobacterium bovis: 1
+D009080    Mucocutaneous Lymph Node Syndrome: 1
+D009043    Motor Activity: 1
+D009030    Mosaicism: 1
+D008967    Molecular Biology: 1
+D008958    Models, Molecular: 1
+D008910    Minnesota: 1
+D008889    Military Personnel: 1
+D008877    Middle East: 1
+D008827    Microbiological Phenomena: 1
+D008824    Michigan: 1
+D008815    Mice, Inbred Strains: 1
+D008810    Mice, Inbred C57BL: 1
+D008809    Mice, Inbred C3H: 1
+D008808    Mice, Inbred CBA: 1
+D008660    Metabolism: 1
+D008589    Meningococcal Infections: 1
+D008565    Membrane Proteins: 1
+D008507    Medically Underserved Area: 1
+D008490    Medical Informatics: 1
+D008485    Medical Audit: 1
+D008459    Measles virus: 1
+D008399    Mass Behavior: 1
+D008322    Mammals: 1
+D008264    Macrophages: 1
+D008256    Macau: 1
+D008252    Macaca fascicularis: 1
+D008213    Lymphocyte Activation: 1
+D008134    Long-Term Care: 1
+D008131    London: 1
+D008018    Life Cycle Stages: 1
+D007918    Leprosy: 1
+D007858    Learning: 1
+D007857    Leadership: 1
+D007814    Larva: 1
+D007783    Lactones: 1
+D007604    Juvenile Delinquency: 1
+D007564    Japan: 1
+D007558    Italy: 1
+D007557    Israel: 1
+D007527    Isoenzymes: 1
+D007455    Iodine: 1
+D007407    Interviews as Topic: 1
+D007373    Interinstitutional Relations: 1
+D007371    Interferon-gamma: 1
+D007343    Insurance Carriers: 1
+D007326    Institutionalization: 1
+D007300    Insect Control: 1
+D007297    Inpatients: 1
+D007234    Infant, Premature: 1
+D007214    Indonesia: 1
+D007182    Income: 1
+D007165    Immunosuppression: 1
+D007159    Immunologic Tests: 1
+D007155    Immunologic Factors: 1
+D007143    Immunoglobulin Heavy Chains: 1
+D007118    Immunoassay: 1
+D007117    Immunization, Secondary: 1
+D007112    Immunity, Maternally-Acquired: 1
+D007107    Immune System: 1
+D007055    Iceland: 1
+D006984    Hypertrophy: 1
+D006805    Human Experimentation: 1
+D006784    Hospitals, Teaching: 1
+D006766    Hospitals, County: 1
+D006725    Hookworm Infections: 1
+D006655    Histone Deacetylases: 1
+D006630    Hispanic Americans: 1
+D006570    Heterochromatin: 1
+D006463    Hemolytic-Uremic Syndrome: 1
+D006333    Heart Failure: 1
+D006328    Cardiac Catheterization: 1
+D006305    Health Status Indicators: 1
+D006293    Health Promotion: 1
+D006279    Health Maintenance Organizations: 1
+D006278    Medicare: 1
+D006268    Health Facilities: 1
+D006266    Health Education: 1
+D006262    Health: 1
+D006239    Haplotypes: 1
+D006233    Disabled Persons: 1
+D006225    Hand: 1
+D006192    Haemophilus Infections: 1
+D006090    Gram-Negative Bacteria: 1
+D006071    Gorilla gorilla: 1
+D005869    Ghana: 1
+D005846    Georgia (Republic): 1
+D005814    Genes, Viral: 1
+D005791    Patient Care: 1
+D005783    Gender Identity: 1
+D005767    Gastrointestinal Diseases: 1
+D005523    Food Supply: 1
+D005449    Fluorenes: 1
+D005431    Florida: 1
+D005426    Flight, Animal: 1
+D005334    Fever: 1
+D005289    Ferrets: 1
+D005263    Femoral Artery: 1
+D005240    Feasibility Studies: 1
+D005189    False Positive Reactions: 1
+D005107    Explosions: 1
+D005069    Evaluation Studies as Topic: 1
+D004983    Ethanolamines: 1
+D004924    Escape Reaction: 1
+D004843    Epistasis, Genetic: 1
+D004798    Enzymes: 1
+D004791    Enzyme Inhibitors: 1
+D004772    Entomology: 1
+D004769    Enterovirus Infections: 1
+D004761    Enterocolitis, Pseudomembranous: 1
+D004739    England: 1
+D004651    Employment: 1
+D004636    Emergency Service, Hospital: 1
+D004632    Emergency Medical Services: 1
+D004608    Eligibility Determination: 1
+D004403    Dysentery: 1
+D004363    Drug Utilization: 1
+D004343    Drug Implants: 1
+D004338    Drug Combinations: 1
+D004311    Double-Blind Method: 1
+D004305    Dose-Response Relationship, Drug: 1
+D004270    DNA, Circular: 1
+D004185    Disability Evaluation: 1
+D004175    Diptera: 1
+D004058    Diffusion: 1
+D003936    Diagnosis, Computer-Assisted: 1
+D003718    Denmark: 1
+D003681    Dehydration: 1
+D003658    Decision Making, Computer-Assisted: 1
+D003643    Death: 1
+D003628    Database Management Systems: 1
+D003621    Daphnia: 1
+D003458    Cryptosporidium: 1
+D003418    Criminology: 1
+D003415    Crime: 1
+D003371    Cough: 1
+D003363    Cost Control: 1
+D003299    Cooperative Behavior: 1
+D003271    Contraceptive Agents, Female: 1
+D003268    Contraception Behavior: 1
+D003266    Continuity of Patient Care: 1
+D003264    Containment of Biohazards: 1
+D003256    Consumer Participation: 1
+D003247    Conservation of Natural Resources: 1
+D003237    Connecticut: 1
+D003196    Computer Graphics: 1
+D003191    Comprehensive Health Care: 1
+D003153    Community Health Services: 1
+D003144    Communication Barriers: 1
+D003142    Communication: 1
+D003139    Common Cold: 1
+D003106    Colon: 1
+D003105    Colombia: 1
+D003071    Cognition: 1
+D002981    Clindamycin: 1
+D002965    Classification: 1
+D002959    Civil Defense: 1
+D002876    Chromosomes, Bacterial: 1
+D002685    Chiroptera: 1
+D002679    Pan troglodytes: 1
+D002652    Child Behavior: 1
+D002645    Chickens: 1
+D002644    Chickenpox: 1
+D002641    Chicago: 1
+D002598    Chagas Cardiomyopathy: 1
+D002511    Cephalosporins: 1
+D002478    Cells, Cultured: 1
+D002471    Cell Transformation, Neoplastic: 1
+D002460    Cell Line: 1
+D002455    Cell Division: 1
+D002454    Cell Differentiation: 1
+D002418    Cattle Diseases: 1
+D002245    Carbon Dioxide: 1
+D002213    Capsid: 1
+D002170    Canada: 1
+D002020    Buffaloes: 1
+D001900    Boston: 1
+D001898    Borrelia: 1
+D001886    Bordetella pertussis: 1
+D001803    Blood Transfusion: 1
+D001733    Bites and Stings: 1
+D001690    Biological Science Disciplines: 1
+D001618    beta-Lactamases: 1
+D001500    BCG Vaccine: 1
+D001494    Baths: 1
+D001484    Baseball: 1
+D001458    Bandages: 1
+D001404    Babesiosis: 1
+D001403    Babesia: 1
+D001402    B-Lymphocytes: 1
+D001359    Aviation: 1
+D001315    Australia: 1
+D001294    Attitude to Health: 1
+D001249    Asthma: 1
+D001208    Asia: 1
+D001105    Archaea: 1
+D001102    Arbovirus Infections: 1
+D001096    Arachnid Vectors: 1
+D001070    Appetitive Behavior: 1
+D001007    Anxiety: 1
+D000970    Antineoplastic Agents: 1
+D000939    Epitopes: 1
+D000930    Antidiarrheals: 1
+D000916    Antibody Diversity: 1
+D000907    Antibodies, Bacterial: 1
+D000906    Antibodies: 1
+D000904    Antibiotics, Antitubercular: 1
+D000881    Anthrax: 1
+D000810    Angola: 1
+D000711    Anaplasmataceae Infections: 1
+D000710    Anaplasmataceae: 1
+D000617    Aminoglycosides: 1
+D000601    Amino Acids, Essential: 1
+D000596    Amino Acids: 1
+D000569    Americas: 1
+D000483    Alleles: 1
+D000413    Alaska: 1
+D000401    Aircraft: 1
+D000357    African Swine Fever: 1
+D000350    Africa, Central: 1
+D000336    Aerosols: 1
+D000223    Adaptation, Psychological: 1
+D000210    Acute-Phase Reaction: 1
+D000163    Acquired Immunodeficiency Syndrome: 1
+D000069455    Palivizumab: 1
+D000069216    Contraceptive Prevalence Surveys: 1
+D000066949    Biobehavioral Sciences: 1
+D000034    Abortion, Veterinary: 1
