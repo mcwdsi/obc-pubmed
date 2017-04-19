@@ -5,6 +5,11 @@ number 'GM070708'."""
 
 from Bio import Entrez
 import xml.etree.ElementTree as ET
+import requests
+import datetime as dt
+
+
+obc_api_url = "http://api.onbc.io/publications"
 
 
 # Prompts user for tab-delimited text file containing grant numbers
@@ -110,10 +115,39 @@ if __name__ == '__main__':
 
     raw.close()
 
-    papers = fetch_doc_sum(all_ids)
+    pmid_lst = []
+
+    in_obc = requests.get(obc_api_url).json()
+
+    # NEED TO PULL PMIDS FROM API,
+    # COUNT THEM TO MAKE SURE THAT THEY MATCH THE NUMBER OF PUBS IN API,
+    # AND COMPARE TO all_ids LIST
+
+    # IF MISSING FROM all_ids,
+    # SCRAPE INFO FROM PUBMED AND OUTPUT IT IN NEW XML FILE
+
+    for publication in in_obc:
+        pmid_lst.append(publication.get("pmid"))
+
+    new_pub_ids = []
+
+    for id in all_ids:
+        if id not in pmid_lst:
+            new_pub_ids.append(id)
+        else : continue
+
+    papers = fetch_doc_sum(new_pub_ids)
     #info = extract_info(papers)
 
-    with open("output.xml", "a") as xml:
+    today = dt.datetime.today().strftime("%Y-%m-%d")
+    fname = "most_recent_publications_"
+    fname += today
+    fname += ".xml"
+
+    with open(fname, "a") as xml:
         xml.write(papers)
 
-    print("Return count: ", len(all_ids), " papers")
+    print("Number of new publications: ", len(new_pub_ids))
+
+    for id in new_pub_ids:
+        print(id)
