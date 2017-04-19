@@ -4,7 +4,6 @@ The purpose of this script is to take a PubMed XML file as input, parse out the 
 count how many of each there is. Output is a tab-delimited text file."""
 
 import xml.etree.ElementTree as ET
-import re
 
 
 # Prompts user for PubMed XML file
