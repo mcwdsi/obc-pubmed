@@ -1,6 +1,6 @@
 import xml.etree.ElementTree as ET
 import json
-from extract_MeSH_terms import xml_prompt
+from extract_mesh_terms import xml_prompt
 from search_grants import checkXML
 
 
