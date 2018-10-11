@@ -115,6 +115,7 @@ if __name__ == '__main__':
 
     for line in grants_in:
         line = line.rstrip()
+        #line = line.splitlines()
         results = search(line)
         id_list = results['IdList']
 
