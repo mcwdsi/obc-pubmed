@@ -1,0 +1,4 @@
+{'title': 'Differential engagement of Tim-1 during activation can positively or negatively costimulate T cell expansion and effector function.', 'doi': '', 'pmid': '17606630'}
+{'title': 'HIV population-level adaptation can rapidly diminish the impact of a partially effective vaccine.', 'doi': 'S0264-410X(17)31731-0', 'pmid': '29241646'}
+{'title': 'Longitudinal Trends in the Prevalence of Detectable HIV Viremia: Population-Based Evidence From Rural KwaZulu-Natal, South Africa.', 'doi': '10.1093/cid/cix976', 'pmid': '29186391'}
+{'title': 'Quantifying TB transmission: a systematic review of reproduction number and serial interval estimates for tuberculosis.', 'doi': '10.1017/S0950268818001760', 'pmid': '29970199'}

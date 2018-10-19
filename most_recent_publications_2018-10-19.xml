@@ -1,0 +1,1676 @@
+<?xml version="1.0" ?>
+<!DOCTYPE PubmedArticleSet PUBLIC "-//NLM//DTD PubMedArticle, 1st June 2018//EN" "https://dtd.nlm.nih.gov/ncbi/pubmed/out/pubmed_180601.dtd">
+<PubmedArticleSet>
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">17606630</PMID>
+        <DateCompleted>
+            <Year>2007</Year>
+            <Month>09</Month>
+            <Day>17</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2017</Year>
+            <Month>11</Month>
+            <Day>16</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Print">0022-1007</ISSN>
+                <JournalIssue CitedMedium="Print">
+                    <Volume>204</Volume>
+                    <Issue>7</Issue>
+                    <PubDate>
+                        <Year>2007</Year>
+                        <Month>Jul</Month>
+                        <Day>09</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Journal of experimental medicine</Title>
+                <ISOAbbreviation>J. Exp. Med.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Differential engagement of Tim-1 during activation can positively or negatively costimulate T cell expansion and effector function.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1691-702</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText>It has been suggested that T cell immunoglobulin mucin (Tim)-1 expressed on T cells serves to positively costimulate T cell responses. However, crosslinking of Tim-1 by its ligand Tim-4 resulted in either activation or inhibition of T cell responses, thus raising the issue of whether Tim-1 can have a dual function as a costimulator. To resolve this issue, we tested a series of monoclonal antibodies specific for Tim-1 and identified two antibodies that showed opposite functional effects. One anti-Tim-1 antibody increased the frequency of antigen-specific T cells, the production of the proinflammatory cytokines IFN-gamma and IL-17, and the severity of experimental autoimmune encephalomyelitis. In contrast, another anti-Tim-1 antibody inhibited the generation of antigen-specific T cells, production of IFN-gamma and IL-17, and development of autoimmunity, and it caused a strong Th2 response. Both antibodies bound to closely related epitopes in the IgV domain of the Tim-1 molecule, but the activating antibody had an avidity for Tim-1 that was 17 times higher than the inhibitory antibody. Although both anti-Tim-1 antibodies induced CD3 capping, only the activating antibody caused strong cytoskeletal reorganization and motility. These data indicate that Tim-1 regulates T cell responses and that Tim-1 engagement can alter T cell function depending on the affinity/avidity with which it is engaged.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Xiao</LastName>
+                    <ForeName>Sheng</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Neurologic Diseases, Brigham and Women's Hospital and Children's Hospital Boston, Harvard Medical School, Boston, MA 02115, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Najafian</LastName>
+                    <ForeName>Nader</ForeName>
+                    <Initials>N</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Reddy</LastName>
+                    <ForeName>Jay</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Albin</LastName>
+                    <ForeName>Monica</ForeName>
+                    <Initials>M</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhu</LastName>
+                    <ForeName>Chen</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jensen</LastName>
+                    <ForeName>Eric</ForeName>
+                    <Initials>E</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Imitola</LastName>
+                    <ForeName>Jaime</ForeName>
+                    <Initials>J</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Korn</LastName>
+                    <ForeName>Thomas</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Anderson</LastName>
+                    <ForeName>Ana C</ForeName>
+                    <Initials>AC</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Zheng</ForeName>
+                    <Initials>Z</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gutierrez</LastName>
+                    <ForeName>Cristina</ForeName>
+                    <Initials>C</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Moll</LastName>
+                    <ForeName>Thomas</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sobel</LastName>
+                    <ForeName>Raymond A</ForeName>
+                    <Initials>RA</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Umetsu</LastName>
+                    <ForeName>Dale T</ForeName>
+                    <Initials>DT</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Yagita</LastName>
+                    <ForeName>Hideo</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Akiba</LastName>
+                    <ForeName>Hisaya</ForeName>
+                    <Initials>H</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Strom</LastName>
+                    <ForeName>Terry</ForeName>
+                    <Initials>T</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sayegh</LastName>
+                    <ForeName>Mohamed H</ForeName>
+                    <Initials>MH</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>DeKruyff</LastName>
+                    <ForeName>Rosemarie H</ForeName>
+                    <Initials>RH</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Khoury</LastName>
+                    <ForeName>Samia J</ForeName>
+                    <Initials>SJ</Initials>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kuchroo</LastName>
+                    <ForeName>Vijay K</ForeName>
+                    <Initials>VK</Initials>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R01 NS030843</GrantID>
+                    <Acronym>NS</Acronym>
+                    <Agency>NINDS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R56 AI058680</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P01 AI 139761</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P01 AI 41521</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>NS 30843</GrantID>
+                    <Acronym>NS</Acronym>
+                    <Agency>NINDS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>AI 586080</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>NS 045593</GrantID>
+                    <Acronym>NS</Acronym>
+                    <Agency>NINDS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 AI070820-02</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>K01 DK090105</GrantID>
+                    <Acronym>DK</Acronym>
+                    <Agency>NIDDK NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>AI 44880</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P01 AI041521</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 AI070820</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 AI044880</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R37 NS030843</GrantID>
+                    <Acronym>NS</Acronym>
+                    <Agency>NINDS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R56 AI044880</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 NS035685</GrantID>
+                    <Acronym>NS</Acronym>
+                    <Agency>NINDS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 AI058680</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>NS 046414</GrantID>
+                    <Acronym>NS</Acronym>
+                    <Agency>NINDS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 NS046414</GrantID>
+                    <Acronym>NS</Acronym>
+                    <Agency>NINDS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>NS 35685</GrantID>
+                    <Acronym>NS</Acronym>
+                    <Agency>NINDS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R29 NS030843</GrantID>
+                    <Acronym>NS</Acronym>
+                    <Agency>NINDS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P01 NS038037</GrantID>
+                    <Acronym>NS</Acronym>
+                    <Agency>NINDS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2007</Year>
+                <Month>07</Month>
+                <Day>02</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>J Exp Med</MedlineTA>
+            <NlmUniqueID>2985109R</NlmUniqueID>
+            <ISSNLinking>0022-1007</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000906">Antibodies</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D017252">CD3 Complex</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="C442240">Havcr1 protein, mouse</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D000072596">Hepatitis A Virus Cellular Receptor 1</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D020381">Interleukin-17</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D008565">Membrane Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D011994">Recombinant Proteins</NameOfSubstance>
+            </Chemical>
+            <Chemical>
+                <RegistryNumber>82115-62-6</RegistryNumber>
+                <NameOfSubstance UI="D007371">Interferon-gamma</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunity. 2000 Feb;12(2):151-60</RefSource>
+                <PMID Version="1">10714681</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 1999 Jan 5;96(1):185-90</RefSource>
+                <PMID Version="1">9874793</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Immunol. 2001 Dec;2(12):1109-16</RefSource>
+                <PMID Version="1">11725301</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Annu Rev Immunol. 2002;20:101-23</RefSource>
+                <PMID Version="1">11861599</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Immunol. 2002 Feb;2(2):116-26</RefSource>
+                <PMID Version="1">11910893</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Kidney Int. 2002 Jul;62(1):237-44</RefSource>
+                <PMID Version="1">12081583</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2003 Feb 14;299(5609):1057-61</RefSource>
+                <PMID Version="1">12522256</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunol Rev. 2003 Feb;191:97-106</RefSource>
+                <PMID Version="1">12614354</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int Immunol. 1999 May;11(5):777-86</RefSource>
+                <PMID Version="1">10330283</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 2005 Jan 17;201(2):233-40</RefSource>
+                <PMID Version="1">15657292</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Immunol. 2005 May;6(5):447-54</RefSource>
+                <PMID Version="1">15793575</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Immunol. 2005 May;6(5):455-64</RefSource>
+                <PMID Version="1">15793576</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Allergy Clin Immunol. 2005 May;115(5):982-8</RefSource>
+                <PMID Version="1">15867855</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Exp Med. 2005 Aug 1;202(3):437-44</RefSource>
+                <PMID Version="1">16043519</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Trends Mol Med. 2005 Aug;11(8):362-9</RefSource>
+                <PMID Version="1">16002337</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2005 Sep 6;102(36):12861-6</RefSource>
+                <PMID Version="1">16126897</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Allergy Clin Immunol. 2005 Sep;116(3):650-6</RefSource>
+                <PMID Version="1">16159638</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 2005 Nov 1;175(9):5591-5</RefSource>
+                <PMID Version="1">16237044</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Immunol. 2005 Nov;6(11):1133-41</RefSource>
+                <PMID Version="1">16200068</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Immunol. 2005 Nov;6(11):1123-32</RefSource>
+                <PMID Version="1">16200070</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Semin Immunol. 2005 Dec;17(6):400-10</RefSource>
+                <PMID Version="1">16266811</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2005 Nov 22;102(47):17113-8</RefSource>
+                <PMID Version="1">16284246</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunity. 2006 Feb;24(2):179-89</RefSource>
+                <PMID Version="1">16473830</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2006 Mar 28;103(13):5048-53</RefSource>
+                <PMID Version="1">16549802</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2006 May 11;441(7090):235-8</RefSource>
+                <PMID Version="1">16648838</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunity. 2007 Mar;26(3):299-310</RefSource>
+                <PMID Version="1">17363299</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Med. 2007 Apr;13(4):423-31</RefSource>
+                <PMID Version="1">17384649</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Rev Immunol. 2003 Jun;3(6):454-62</RefSource>
+                <PMID Version="1">12776205</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nature. 2003 Oct 9;425(6958):576</RefSource>
+                <PMID Version="1">14534576</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Allergy Clin Immunol. 2003 Nov;112(5):837-49; quiz 850</RefSource>
+                <PMID Version="1">14610467</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Hum Immunol. 2003 Dec;64(12):1177-82</RefSource>
+                <PMID Version="1">14630400</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 2003 Dec 12;312(2):346-50</RefSource>
+                <PMID Version="1">14637143</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int Immunol. 2004 Feb;16(2):249-56</RefSource>
+                <PMID Version="1">14734610</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Biochem Biophys Res Commun. 2004 Mar 19;315(4):971-5</RefSource>
+                <PMID Version="1">14985107</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2004 Oct 26;101(43):15434-9</RefSource>
+                <PMID Version="1">15492218</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Cell. 1995 Mar 10;80(5):707-18</RefSource>
+                <PMID Version="1">7534215</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Immunol Immunopathol. 1995 Oct;77(1):4-13</RefSource>
+                <PMID Version="1">7554482</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EMBO J. 1996 Aug 15;15(16):4282-96</RefSource>
+                <PMID Version="1">8861957</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Curr Opin Immunol. 1996 Dec;8(6):837-42</RefSource>
+                <PMID Version="1">8994864</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Crit Rev Immunol. 1997;17(5-6):449-62</RefSource>
+                <PMID Version="1">9419432</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Biol Chem. 1998 Feb 13;273(7):4135-42</RefSource>
+                <PMID Version="1">9461608</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Virol. 1998 Aug;72(8):6621-8</RefSource>
+                <PMID Version="1">9658108</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Immunol. 1998 Oct 1;161(7):3299-306</RefSource>
+                <PMID Version="1">9759845</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Immunol Rev. 2001 Aug;182:58-67</RefSource>
+                <PMID Version="1">11722623</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D000818" MajorTopicYN="N">Animals</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000906" MajorTopicYN="N">Antibodies</DescriptorName>
+                <QualifierName UI="Q000494" MajorTopicYN="N">pharmacology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015551" MajorTopicYN="N">Autoimmunity</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017252" MajorTopicYN="N">CD3 Complex</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015496" MajorTopicYN="N">CD4-Positive T-Lymphocytes</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004195" MajorTopicYN="N">Disease Models, Animal</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D004679" MajorTopicYN="N">Encephalomyelitis</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000072596" MajorTopicYN="N">Hepatitis A Virus Cellular Receptor 1</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007108" MajorTopicYN="N">Immune Tolerance</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D007371" MajorTopicYN="N">Interferon-gamma</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D020381" MajorTopicYN="N">Interleukin-17</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008213" MajorTopicYN="N">Lymphocyte Activation</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008565" MajorTopicYN="N">Membrane Proteins</DescriptorName>
+                <QualifierName UI="Q000235" MajorTopicYN="N">genetics</QualifierName>
+                <QualifierName UI="Q000276" MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D051379" MajorTopicYN="N">Mice</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D008815" MajorTopicYN="N">Mice, Inbred Strains</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D011994" MajorTopicYN="N">Recombinant Proteins</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D013601" MajorTopicYN="N">T-Lymphocytes</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D018418" MajorTopicYN="N">Th2 Cells</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014162" MajorTopicYN="N">Transfection</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2007</Year>
+                <Month>7</Month>
+                <Day>4</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2007</Year>
+                <Month>9</Month>
+                <Day>18</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2007</Year>
+                <Month>7</Month>
+                <Day>4</Day>
+                <Hour>9</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">17606630</ArticleId>
+            <ArticleId IdType="pii">jem.20062498</ArticleId>
+            <ArticleId IdType="doi">10.1084/jem.20062498</ArticleId>
+            <ArticleId IdType="pmc">PMC2118637</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="MEDLINE" Owner="NLM">
+        <PMID Version="1">29241646</PMID>
+        <DateCompleted>
+            <Year>2018</Year>
+            <Month>09</Month>
+            <Day>11</Day>
+        </DateCompleted>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>09</Month>
+            <Day>11</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1873-2518</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>36</Volume>
+                    <Issue>4</Issue>
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>01</Month>
+                        <Day>25</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Vaccine</Title>
+                <ISOAbbreviation>Vaccine</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>HIV population-level adaptation can rapidly diminish the impact of a partially effective vaccine.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>514-520</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="pii" ValidYN="Y">S0264-410X(17)31731-0</ELocationID>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1016/j.vaccine.2017.12.004</ELocationID>
+            <Abstract>
+                <AbstractText Label="BACKGROUND">Development of an HIV vaccine might be essential to ending the HIV/AIDS pandemic. However, vaccines can result in the emergence and spread of vaccine-resistant strains. Indeed, analyses of breakthrough infections in the HIV phase 3 vaccine trial RV144 identified HIV genotypes with differential rates of transmission in vaccine and placebo recipients. We hypothesized that, for HIV vaccination programs based on partially effective vaccines similar to RV144, HIV adaptation will rapidly diminish the expected vaccine impact.</AbstractText>
+                <AbstractText Label="METHODS AND FINDINGS">Using two HIV epidemic models, we simulated large-scale vaccination programs and, critically, included HIV strain diversity with respect to the vaccine response. We show here that rapid population-level viral adaptation can lead to decreased overall vaccine efficacy and substantially fewer infections averted by vaccination, when comparing scenarios with and without viral evolution (with outcomes depending on vaccination coverage, vaccine efficacy against the sensitive allele, and the initial resistant allele frequency). Translating this to the epidemic in South Africa, a scenario with 70% vaccination coverage may result in 250,000 infections (non-averted by vaccination) within 10 years of vaccine rollout that are due solely to HIV adaptation, all else being equal.</AbstractText>
+                <AbstractText Label="CONCLUSIONS">These findings suggest that approaches to HIV vaccine development, program implementation, and epidemic modeling may require attention to viral adaptation in response to vaccination.</AbstractText>
+                <CopyrightInformation>Copyright © 2017. Published by Elsevier Ltd.</CopyrightInformation>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Herbeck</LastName>
+                    <ForeName>Joshua T</ForeName>
+                    <Initials>JT</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>International Clinical Research Center, University of Washington, Seattle, WA, USA; Department of Global Health, University of Washington, Seattle, WA, USA. Electronic address: herbeck@uw.edu.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Peebles</LastName>
+                    <ForeName>Kathryn</ForeName>
+                    <Initials>K</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>International Clinical Research Center, University of Washington, Seattle, WA, USA; Department of Global Health, University of Washington, Seattle, WA, USA; Department of Epidemiology, University of Washington, Seattle, WA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Edlefsen</LastName>
+                    <ForeName>Paul T</ForeName>
+                    <Initials>PT</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Vaccine and Infectious Disease Division, FHCRC, Seattle, WA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Rolland</LastName>
+                    <ForeName>Morgane</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>US Military HIV Research Program, WRAIR, Silver Spring, MD, USA; The Henry M. Jackson Foundation for the Advancement of Military Medicine, Inc., Bethesda, MD, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Murphy</LastName>
+                    <ForeName>James T</ForeName>
+                    <Initials>JT</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Microbiology, University of Washington, Seattle, WA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gottlieb</LastName>
+                    <ForeName>Geoffrey S</ForeName>
+                    <Initials>GS</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Medicine, University of Washington, Seattle, WA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Abernethy</LastName>
+                    <ForeName>Neil</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biomedical Inf. and Medical Education, University of Washington, Seattle, WA, USA; Department of Health Services, University of Washington, Seattle, WA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mullins</LastName>
+                    <ForeName>James I</ForeName>
+                    <Initials>JI</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Global Health, University of Washington, Seattle, WA, USA; Department of Microbiology, University of Washington, Seattle, WA, USA; Department of Medicine, University of Washington, Seattle, WA, USA; Department of Laboratory Medicine, University of Washington, Seattle, WA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mittler</LastName>
+                    <ForeName>John E</ForeName>
+                    <Initials>JE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Microbiology, University of Washington, Seattle, WA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Goodreau</LastName>
+                    <ForeName>Steven M</ForeName>
+                    <Initials>SM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Studies in Demography and Ecology, University of Washington, Seattle, WA, USA; Department of Anthropology, University of Washington, Seattle, WA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R01 AI108490</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 GM125440</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P30 AI027757</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+                <PublicationType UI="D052061">Research Support, N.I.H., Extramural</PublicationType>
+                <PublicationType UI="D013485">Research Support, Non-U.S. Gov't</PublicationType>
+                <PublicationType UI="D013486">Research Support, U.S. Gov't, Non-P.H.S.</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2017</Year>
+                <Month>12</Month>
+                <Day>11</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>Netherlands</Country>
+            <MedlineTA>Vaccine</MedlineTA>
+            <NlmUniqueID>8406899</NlmUniqueID>
+            <ISSNLinking>0264-410X</ISSNLinking>
+        </MedlineJournalInfo>
+        <ChemicalList>
+            <Chemical>
+                <RegistryNumber>0</RegistryNumber>
+                <NameOfSubstance UI="D016915">AIDS Vaccines</NameOfSubstance>
+            </Chemical>
+        </ChemicalList>
+        <CitationSubset>IM</CitationSubset>
+        <MeshHeadingList>
+            <MeshHeading>
+                <DescriptorName UI="D016915" MajorTopicYN="N">AIDS Vaccines</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="N">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D023241" MajorTopicYN="N">Antiretroviral Therapy, Highly Active</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006678" MajorTopicYN="N">HIV</DescriptorName>
+                <QualifierName UI="Q000276" MajorTopicYN="Y">immunology</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015658" MajorTopicYN="N">HIV Infections</DescriptorName>
+                <QualifierName UI="Q000188" MajorTopicYN="N">drug therapy</QualifierName>
+                <QualifierName UI="Q000453" MajorTopicYN="N">epidemiology</QualifierName>
+                <QualifierName UI="Q000276" MajorTopicYN="Y">immunology</QualifierName>
+                <QualifierName UI="Q000517" MajorTopicYN="N">prevention &amp; control</QualifierName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D006801" MajorTopicYN="N">Humans</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D000071497" MajorTopicYN="N">Immunogenicity, Vaccine</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015994" MajorTopicYN="N">Incidence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D017063" MajorTopicYN="N">Outcome Assessment (Health Care)</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D015995" MajorTopicYN="N">Prevalence</DescriptorName>
+            </MeshHeading>
+            <MeshHeading>
+                <DescriptorName UI="D014611" MajorTopicYN="N">Vaccination</DescriptorName>
+            </MeshHeading>
+        </MeshHeadingList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="Y">HIV prevention</Keyword>
+            <Keyword MajorTopicYN="Y">HIV vaccine</Keyword>
+            <Keyword MajorTopicYN="Y">Mathematical model</Keyword>
+            <Keyword MajorTopicYN="Y">South Africa</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>08</Month>
+                <Day>10</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="revised">
+                <Year>2017</Year>
+                <Month>11</Month>
+                <Day>27</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>12</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2017</Year>
+                <Month>12</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>9</Month>
+                <Day>12</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2017</Year>
+                <Month>12</Month>
+                <Day>16</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29241646</ArticleId>
+            <ArticleId IdType="pii">S0264-410X(17)31731-0</ArticleId>
+            <ArticleId IdType="doi">10.1016/j.vaccine.2017.12.004</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">29186391</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>05</Month>
+            <Day>12</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">1537-6591</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>66</Volume>
+                    <Issue>8</Issue>
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Apr</Month>
+                        <Day>03</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Clinical infectious diseases : an official publication of the Infectious Diseases Society of America</Title>
+                <ISOAbbreviation>Clin. Infect. Dis.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Longitudinal Trends in the Prevalence of Detectable HIV Viremia: Population-Based Evidence From Rural KwaZulu-Natal, South Africa.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1254-1260</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1093/cid/cix976</ELocationID>
+            <Abstract>
+                <AbstractText Label="Background" NlmCategory="UNASSIGNED">The prevalence of detectable viremia has previously been used to infer the potential for ongoing human immunodeficiency virus (HIV) transmission. To date, no study has evaluated the longitudinal change in the prevalence of detectable viremia within the HIV-positive community (PDV+) and the entire population (PDVP) using data from a sub-Saharan African setting.</AbstractText>
+                <AbstractText Label="Methods" NlmCategory="UNASSIGNED">In 2011, 2013, and 2014, we obtained 6752 HIV-positive and 15415 HIV-negative test results from a population-based surveillance system in the KwaZulu-Natal province of South Africa. We quantified the PDV+ as the proportion of the 6752 HIV-positive results with a viral load &gt;1550 copies/mL and the PDVP as the proportion of the 6752 HIV-positive and 15415 HIV-negative results with a viral load &gt;1550 copies/mL.</AbstractText>
+                <AbstractText Label="Results" NlmCategory="UNASSIGNED">Between 2011 and 2014, the PDV+ decreased by 16.5 percentage points (pp) for women (from 71.8% to 55.3%) and 10.6 pp for men (from 77.8% to 67.2%). However, a steady rise in the overall HIV prevalence, from 26.7% to 32.4%, offset the declines in the PDV+ for both sexes. For women, the PDVP decreased by only 2.1 pp, from 21.3% to 19.2%, but for men, the PDVP actually increased by 1.6 pp, from 14.6% to 16.2%, over the survey period.</AbstractText>
+                <AbstractText Label="Conclusions" NlmCategory="UNASSIGNED">The PDV+, which is currently being tracked under the UNAIDS 90-90-90 targets, may not be an accurate indicator of the potential for ongoing HIV transmission. There is a critical need for countries to monitor and report the prevalence of detectable viremia among all adults, irrespective of HIV status.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Vandormael</LastName>
+                    <ForeName>Alain</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Nursing and Public Health, University of KwaZulu-Natal, Durban, South Africa.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Africa Health Research Institute, Durban, South Africa.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Kwazulu-Natal Research Innovation and Sequencing Platform, University of KwaZulu-Natal, Durban, South Africa.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bärnighausen</LastName>
+                    <ForeName>Till</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Africa Health Research Institute, Durban, South Africa.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Global Health and Population, Harvard T. H. Chan School of Public Health, Boston, Massachusetts.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Heidelberg Institute for Public Health, Faculty of Medicine, University of Heidelberg, Germany.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Research Department of Infection and Population Health, University College London, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Herbeck</LastName>
+                    <ForeName>Joshua</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>International Clinical Research Center, Department of Global Health, University of Washington, Seattle.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tomita</LastName>
+                    <ForeName>Andrew</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Nursing and Public Health, University of KwaZulu-Natal, Durban, South Africa.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Africa Health Research Institute, Durban, South Africa.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Kwazulu-Natal Research Innovation and Sequencing Platform, University of KwaZulu-Natal, Durban, South Africa.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Phillips</LastName>
+                    <ForeName>Andrew</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Institute for Global Health, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pillay</LastName>
+                    <ForeName>Deenan</ForeName>
+                    <Initials>D</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Africa Health Research Institute, Durban, South Africa.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Infection and Immunity, University College London, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>de Oliveira</LastName>
+                    <ForeName>Tulio</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Kwazulu-Natal Research Innovation and Sequencing Platform, University of KwaZulu-Natal, Durban, South Africa.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for the AIDS Programme of Research in South Africa, University of KwaZulu-Natal, Durban, South Africa.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Tanser</LastName>
+                    <ForeName>Frank</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Nursing and Public Health, University of KwaZulu-Natal, Durban, South Africa.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Africa Health Research Institute, Durban, South Africa.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Research Department of Infection and Population Health, University College London, United Kingdom.</Affiliation>
+                    </AffiliationInfo>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for the AIDS Programme of Research in South Africa, University of KwaZulu-Natal, Durban, South Africa.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>R01 AI108490</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 AI127232</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 GM125440</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 HD084233</GrantID>
+                    <Acronym>HD</Acronym>
+                    <Agency>NICHD NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>United States</Country>
+            <MedlineTA>Clin Infect Dis</MedlineTA>
+            <NlmUniqueID>9203213</NlmUniqueID>
+            <ISSNLinking>1058-4838</ISSNLinking>
+        </MedlineJournalInfo>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2015 Apr 13;10(4):e0123345</RefSource>
+                <PMID Version="1">25875851</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>AIDS. 2012 Jan 28;26(3):345-53</RefSource>
+                <PMID Version="1">22008660</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Acquir Immune Defic Syndr. 2012 Nov 1;61(3):400-2</RefSource>
+                <PMID Version="1">22732466</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Med. 2015 Nov 24;12(11):e1001905; discussion e1001905</RefSource>
+                <PMID Version="1">26599699</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lancet. 2010 Aug 14;376(9740):532-9</RefSource>
+                <PMID Version="1">20638713</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>AIDS. 2013 Sep 10;27(14):2301-5</RefSource>
+                <PMID Version="1">23669155</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMJ. 2009 Apr 30;338:b1649</RefSource>
+                <PMID Version="1">19406887</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2010 Jun 10;5(6):e11068</RefSource>
+                <PMID Version="1">20548786</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Infect Dis. 2013 Feb;56(4):598-605</RefSource>
+                <PMID Version="1">23243180</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Med Res Methodol. 2015 Feb 05;15:8</RefSource>
+                <PMID Version="1">25656226</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Epidemiol. 2017 Dec 28;:null</RefSource>
+                <PMID Version="1">29300904</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Epidemiol. 2008 Oct;37(5):956-62</RefSource>
+                <PMID Version="1">17998242</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2013 Feb 22;339(6122):966-71</RefSource>
+                <PMID Version="1">23430656</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2013 Feb 22;339(6122):961-5</RefSource>
+                <PMID Version="1">23430655</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Epidemiol. 2018 Feb 1;47(1):236-245</RefSource>
+                <PMID Version="1">29024978</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS Med. 2011 Jul;8(7):e1001056</RefSource>
+                <PMID Version="1">21811403</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2012;7(12):e53284</RefSource>
+                <PMID Version="1">23285274</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lancet Infect Dis. 2013 May;13(5):459-64</RefSource>
+                <PMID Version="1">23537801</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lancet Glob Health. 2014 Apr;2(4):e209-15</RefSource>
+                <PMID Version="1">24782953</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Epidemiol Community Health. 2018 Feb;72 (2):168-172</RefSource>
+                <PMID Version="1">29175867</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Epidemiol. 2011 Apr;40(2):318-26</RefSource>
+                <PMID Version="1">20154009</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lancet HIV. 2016 Apr;3(4):e183-90</RefSource>
+                <PMID Version="1">27036994</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Sci Transl Med. 2017 Dec 13;9(420):null</RefSource>
+                <PMID Version="1">29237762</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Acquir Immune Defic Syndr. 2014 Mar 1;65(3):327-32</RefSource>
+                <PMID Version="1">24146022</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Acquir Immune Defic Syndr. 2010 Nov;55(3):290-8</RefSource>
+                <PMID Version="1">20700058</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Clin Infect Dis. 2016 Aug 15;63(4):548-54</RefSource>
+                <PMID Version="1">27208044</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="received">
+                <Year>2017</Year>
+                <Month>07</Month>
+                <Day>13</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="accepted">
+                <Year>2017</Year>
+                <Month>11</Month>
+                <Day>23</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pmc-release">
+                <Year>2019</Year>
+                <Month>04</Month>
+                <Day>03</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2017</Year>
+                <Month>12</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2017</Year>
+                <Month>12</Month>
+                <Day>1</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2017</Year>
+                <Month>11</Month>
+                <Day>30</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29186391</ArticleId>
+            <ArticleId IdType="pii">4662847</ArticleId>
+            <ArticleId IdType="doi">10.1093/cid/cix976</ArticleId>
+            <ArticleId IdType="pmc">PMC5889002</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+
+<PubmedArticle>
+    <MedlineCitation Status="In-Data-Review" Owner="NLM">
+        <PMID Version="1">29970199</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>08</Month>
+            <Day>16</Day>
+        </DateRevised>
+        <Article PubModel="Print-Electronic">
+            <Journal>
+                <ISSN IssnType="Electronic">1469-4409</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>146</Volume>
+                    <Issue>12</Issue>
+                    <PubDate>
+                        <Year>2018</Year>
+                        <Month>Sep</Month>
+                    </PubDate>
+                </JournalIssue>
+                <Title>Epidemiology and infection</Title>
+                <ISOAbbreviation>Epidemiol. Infect.</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Quantifying TB transmission: a systematic review of reproduction number and serial interval estimates for tuberculosis.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>1478-1494</MedlinePgn>
+            </Pagination>
+            <ELocationID EIdType="doi" ValidYN="Y">10.1017/S0950268818001760</ELocationID>
+            <Abstract>
+                <AbstractText>Tuberculosis (TB) is the leading global infectious cause of death. Understanding TB transmission is critical to creating policies and monitoring the disease with the end goal of TB elimination. To our knowledge, there has been no systematic review of key transmission parameters for TB. We carried out a systematic review of the published literature to identify studies estimating either of the two key TB transmission parameters: the serial interval (SI) and the reproductive number. We identified five publications that estimated the SI and 56 publications that estimated the reproductive number. The SI estimates from four studies were: 0.57, 1.42, 1.44 and 1.65 years; the fifth paper presented age-specific estimates ranging from 20 to 30 years (for infants &lt;1 year old) to &lt;5 years (for adults). The reproductive number estimates ranged from 0.24 in the Netherlands (during 1933-2007) to 4.3 in China in 2012. We found a limited number of publications and many high TB burden settings were not represented. Certain features of TB dynamics, such as slow transmission, complicated parameter estimation, require novel methods. Additional efforts to estimate these parameters for TB are needed so that we can monitor and evaluate interventions designed to achieve TB elimination.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Ma</LastName>
+                    <ForeName>Y</ForeName>
+                    <Initials>Y</Initials>
+                    <Identifier Source="ORCID">http://orcid.org/0000-0001-9569-3169</Identifier>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biostatistics,Boston University School of Public Health,Boston,MA 02118,USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Horsburgh</LastName>
+                    <ForeName>C R</ForeName>
+                    <Initials>CR</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Epidemiology,Boston University School of Public Health and Department of Medicine,Boston University School of Medicine,Boston,MA 02118,USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>White</LastName>
+                    <ForeName>L F</ForeName>
+                    <Initials>LF</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biostatistics,Boston University School of Public Health,Boston,MA 02118,USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Jenkins</LastName>
+                    <ForeName>H E</ForeName>
+                    <Initials>HE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Biostatistics,Boston University School of Public Health,Boston,MA 02118,USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>K01 AI102944</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>P30 AI042853</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>R01 GM122876</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>U19 AI111276</GrantID>
+                    <Acronym>AI</Acronym>
+                    <Agency>NIAID NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+            <ArticleDate DateType="Electronic">
+                <Year>2018</Year>
+                <Month>07</Month>
+                <Day>04</Day>
+            </ArticleDate>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Epidemiol Infect</MedlineTA>
+            <NlmUniqueID>8703737</NlmUniqueID>
+            <ISSNLinking>0950-2688</ISSNLinking>
+        </MedlineJournalInfo>
+        <CommentsCorrectionsList>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Mol Med (Berl). 1998 Aug;76(9):624-36</RefSource>
+                <PMID Version="1">9725765</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Math Biosci Eng. 2012 Oct;9(4):785-807</RefSource>
+                <PMID Version="1">23311422</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Influenza Other Respir Viruses. 2009 Nov;3(6):267-76</RefSource>
+                <PMID Version="1">19903209</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Theor Biol. 2015 Jan 21;365:159-63</RefSource>
+                <PMID Version="1">25451959</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lancet Infect Dis. 2008 Jun;8(6):359-68</RefSource>
+                <PMID Version="1">18450516</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Math Biosci Eng. 2008 Jan;5(1):145-74</RefSource>
+                <PMID Version="1">18193936</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Public Health. 1997 Dec;87(12):1923-7</RefSource>
+                <PMID Version="1">9431277</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Math Biosci Eng. 2017 Oct/Dec 1;14(5-6):1337-1360</RefSource>
+                <PMID Version="1">29161864</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Theor Biol. 2011 Jul 7;280(1):88-100</RefSource>
+                <PMID Version="1">21514304</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Theor Biol. 2000 Oct 7;206(3):327-41</RefSource>
+                <PMID Version="1">10988019</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Tuberc Lung Dis. 1999 May;3(5):414-20</RefSource>
+                <PMID Version="1">10331731</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Infect Dis. 2002 Feb 1;185(3):401-4</RefSource>
+                <PMID Version="1">11807725</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Epidemiol. 1998 Jan 15;147(2):187-95</RefSource>
+                <PMID Version="1">9457010</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Clin Microbiol. 2015 Oct;53(10):3264-71</RefSource>
+                <PMID Version="1">26224845</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Epidemiol Infect. 1998 Oct;121(2):309-24</RefSource>
+                <PMID Version="1">9825782</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Epidemiology. 2013 May;24(3):395-400</RefSource>
+                <PMID Version="1">23446314</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Stat Med. 2008 Jul 20;27(16):2999-3016</RefSource>
+                <PMID Version="1">18058829</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Math Biosci Eng. 2006 Oct;3(4):603-14</RefSource>
+                <PMID Version="1">20361835</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Math Biosci Eng. 2017 Jun 1;14(3):695-708</RefSource>
+                <PMID Version="1">28092959</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Infect Dis. 2012 Oct;16(10):e739-47</RefSource>
+                <PMID Version="1">22818291</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Math Biosci Eng. 2012 Jan 1;9(1):111-22</RefSource>
+                <PMID Version="1">22229399</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Tuberc Lung Dis. 2000 Apr;4(4):287-94</RefSource>
+                <PMID Version="1">10777075</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Theor Biol. 2009 Dec 21;261(4):548-60</RefSource>
+                <PMID Version="1">19733577</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genetics. 2006 Jul;173(3):1511-20</RefSource>
+                <PMID Version="1">16624908</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Infect Dis. 2011 Jun 1;203(11):1582-9</RefSource>
+                <PMID Version="1">21592987</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genetics. 2011 Jul;188(3):663-72</RefSource>
+                <PMID Version="1">21546541</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Environ Health Prev Med. 2009 Mar;14(2):96-102</RefSource>
+                <PMID Version="1">19568853</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Theor Biol. 2014 Oct 7;358:74-84</RefSource>
+                <PMID Version="1">24878110</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bull Math Biol. 2010 May;72(4):931-52</RefSource>
+                <PMID Version="1">20063125</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Math Biosci Eng. 2004 Jun;1(1):81-93</RefSource>
+                <PMID Version="1">20369961</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 1994 Jun 16;330(24):1703-9</RefSource>
+                <PMID Version="1">7910661</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>N Engl J Med. 2004 May 13;350(20):2060-7</RefSource>
+                <PMID Version="1">15141044</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Math Biosci. 2013 Aug;244(2):154-64</RefSource>
+                <PMID Version="1">23707607</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Influenza Other Respir Viruses. 2011 Sep;5(5):306-16</RefSource>
+                <PMID Version="1">21668690</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Epidemiol. 2014 Nov 1;180(9):865-75</RefSource>
+                <PMID Version="1">25294601</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Math Biosci. 1998 Aug 1;151(2):135-54</RefSource>
+                <PMID Version="1">9711046</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Math Biosci Eng. 2008 Jul;5(3):437-55</RefSource>
+                <PMID Version="1">18616351</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Theor Popul Biol. 2000 May;57(3):235-47</RefSource>
+                <PMID Version="1">10828216</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Epidemiol. 2011 Aug;40(4):964-70</RefSource>
+                <PMID Version="1">21441552</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Math Biol. 2003 May;46(5):385-424</RefSource>
+                <PMID Version="1">12750833</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Epidemiol. 2013 Mar 15;177(6):556-61</RefSource>
+                <PMID Version="1">23423215</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Epidemiology. 2000 Jul;11(4):394-401</RefSource>
+                <PMID Version="1">10874545</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Risk Anal. 2012 Aug;32(8):1420-32</RefSource>
+                <PMID Version="1">22211354</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Math Biosci Eng. 2009 Oct;6(4):815-37</RefSource>
+                <PMID Version="1">19835430</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Theor Biol. 2011 Jan 21;269(1):31-45</RefSource>
+                <PMID Version="1">20937288</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Epidemiol. 2000 Aug 1;152(3):247-63</RefSource>
+                <PMID Version="1">10933272</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Lancet Infect Dis. 2003 May;3(5):282-7</RefSource>
+                <PMID Version="1">12726976</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Theor Biol. 2008 Oct 7;254(3):633-49</RefSource>
+                <PMID Version="1">18644386</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Asia Pac J Public Health. 2015 Oct;27(7):723-32</RefSource>
+                <PMID Version="1">26182939</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Genetics. 2014 Apr;196(4):1227-30</RefSource>
+                <PMID Version="1">24496011</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Math Biosci Eng. 2016 Aug 1;13(4):741-785</RefSource>
+                <PMID Version="1">27775384</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>J Theor Biol. 2004 Jul 7;229(1):119-26</RefSource>
+                <PMID Version="1">15178190</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2010 Jan 07;5(1):e8479</RefSource>
+                <PMID Version="1">20062531</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Med. 1995 Aug;1(8):815-21</RefSource>
+                <PMID Version="1">7585186</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Epidemiol. 1997 Jun 15;145(12):1127-37</RefSource>
+                <PMID Version="1">9199543</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Epidemiol. 2004 Sep 15;160(6):509-16</RefSource>
+                <PMID Version="1">15353409</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Comput Math Methods Med. 2014;2014:932186</RefSource>
+                <PMID Version="1">24963343</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>IMA J Math Appl Med Biol. 2000 Mar;17(1):15-31</RefSource>
+                <PMID Version="1">10757030</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Front Microbiol. 2016 Jan 26;6:1530</RefSource>
+                <PMID Version="1">26858691</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Oper Res. 2008;56(6):1366-1381</RefSource>
+                <PMID Version="1">19412348</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Int J Environ Res Public Health. 2017 Oct 07;14(10):</RefSource>
+                <PMID Version="1">28991169</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2009 Jun 19;324(5934):1557-61</RefSource>
+                <PMID Version="1">19433588</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2000 Jul 5;97(14):8180-5</RefSource>
+                <PMID Version="1">10859359</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am J Epidemiol. 1998 Feb 15;147(4):398-406</RefSource>
+                <PMID Version="1">9508108</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur Respir J. 2013 Apr;41(4):901-8</RefSource>
+                <PMID Version="1">22878878</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>BMC Infect Dis. 2014 Sep 04;14:480</RefSource>
+                <PMID Version="1">25186370</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Emerg Infect Dis. 2005 Apr;11(4):597-602</RefSource>
+                <PMID Version="1">15829200</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur Respir J. 2010 Aug;36(2):339-47</RefSource>
+                <PMID Version="1">19996188</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Science. 2003 Jun 20;300(5627):1961-6</RefSource>
+                <PMID Version="1">12766206</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Am Fam Physician. 2014 Jun 1;89(11):889-96</RefSource>
+                <PMID Version="1">25077395</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Bull Math Biol. 2009 Oct;71(7):1745-80</RefSource>
+                <PMID Version="1">19475456</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Comput Math Methods Med. 2011;2011:398476</RefSource>
+                <PMID Version="1">22007263</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>EBioMedicine. 2018 Aug 1;:null</RefSource>
+                <PMID Version="1">30077721</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Proc Natl Acad Sci U S A. 2009 May 5;106(18):7672-7</RefSource>
+                <PMID Version="1">19365076</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Eur Respir J. 2013 Jan;41(1):140-56</RefSource>
+                <PMID Version="1">22936710</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>Nat Med. 2004 Oct;10(10):1111-6</RefSource>
+                <PMID Version="1">15378053</PMID>
+            </CommentsCorrections>
+            <CommentsCorrections RefType="Cites">
+                <RefSource>PLoS One. 2015 Mar 20;10(3):e0118762</RefSource>
+                <PMID Version="1">25793993</PMID>
+            </CommentsCorrections>
+        </CommentsCorrectionsList>
+        <KeywordList Owner="NOTNLM">
+            <Keyword MajorTopicYN="N">Reproductive number</Keyword>
+            <Keyword MajorTopicYN="N">serial interval</Keyword>
+            <Keyword MajorTopicYN="N">systematic review</Keyword>
+            <Keyword MajorTopicYN="N">tuberculosis</Keyword>
+        </KeywordList>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="pmc-release">
+                <Year>2019</Year>
+                <Month>03</Month>
+                <Day>01</Day>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2018</Year>
+                <Month>7</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2018</Year>
+                <Month>7</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2018</Year>
+                <Month>7</Month>
+                <Day>5</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">29970199</ArticleId>
+            <ArticleId IdType="pii">S0950268818001760</ArticleId>
+            <ArticleId IdType="doi">10.1017/S0950268818001760</ArticleId>
+            <ArticleId IdType="pmc">PMC6092233</ArticleId>
+            <ArticleId IdType="mid">NIHMS973153</ArticleId>
+        </ArticleIdList>
+    </PubmedData>
+</PubmedArticle>
+
+</PubmedArticleSet>
