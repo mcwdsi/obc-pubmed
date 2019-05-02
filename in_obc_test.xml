@@ -1,0 +1,775 @@
+<PubmedArticle>
+    <MedlineCitation Owner="NLM" Status="Publisher">
+        <PMID Version="1">25083415</PMID>
+        <DateRevised>
+            <Year>2018</Year>
+            <Month>11</Month>
+            <Day>13</Day>
+        </DateRevised>
+        <Article PubModel="Print">
+            <Journal>
+                <ISSN IssnType="Electronic">2214-109X</ISSN>
+                <JournalIssue CitedMedium="Internet">
+                    <Volume>2</Volume>
+                    <Issue>1</Issue>
+                    <PubDate>
+                        <Year>2013</Year>
+                        <Month>Dec</Month>
+                        <Day>10</Day>
+                    </PubDate>
+                </JournalIssue>
+                <Title>The Lancet. Global health</Title>
+                <ISOAbbreviation>Lancet Glob Health</ISOAbbreviation>
+            </Journal>
+            <ArticleTitle>Health benefits, costs, and cost-effectiveness of earlier eligibility for adult antiretroviral therapy and expanded treatment coverage: a combined analysis of 12 mathematical models.</ArticleTitle>
+            <Pagination>
+                <MedlinePgn>23-34</MedlinePgn>
+            </Pagination>
+            <Abstract>
+                <AbstractText Label="BACKGROUND" NlmCategory="BACKGROUND">New WHO guidelines recommend ART initiation for HIV-positive persons with CD4 cell counts &#8804;500 cells/&#181;L, a higher threshold than was previously recommended. Country decision makers must consider whether to further expand ART eligibility accordingly.</AbstractText>
+                <AbstractText Label="METHODS" NlmCategory="METHODS">We used multiple independent mathematical models in four settings-South Africa, Zambia, India, and Vietnam-to evaluate the potential health impact, costs, and cost-effectiveness of different adult ART eligibility criteria under scenarios of current and expanded treatment coverage, with results projected over 20 years. Analyses considered extending eligibility to include individuals with CD4 &#8804;500 cells/&#181;L or all HIV-positive adults, compared to the previous recommendation of initiation with CD4 &#8804;350 cells/&#181;L. We assessed costs from a health system perspective, and calculated the incremental cost per DALY averted ($/DALY) to compare competing strategies. Strategies were considered 'very cost-effective' if the $/DALY was less than the country's per capita gross domestic product (GDP; South Africa: $8040, Zambia: $1425, India: $1489, Vietnam: $1407) and 'cost-effective' if $/DALY was less than three times per capita GDP.</AbstractText>
+                <AbstractText Label="FINDINGS" NlmCategory="RESULTS">In South Africa, the cost per DALY averted of extending ART eligibility to CD4 &#8804;500 cells/&#181;L ranged from $237 to $1691/DALY compared to 2010 guidelines; in Zambia, expanded eligibility ranged from improving health outcomes while reducing costs (i.e. dominating current guidelines) to $749/DALY. Results were similar in scenarios with substantially expanded treatment access and for expanding eligibility to all HIV-positive adults. Expanding treatment coverage in the general population was therefore found to be cost-effective. In India, eligibility for all HIV-positive persons ranged from $131 to $241/DALY and in Vietnam eligibility for CD4 &#8804;500 cells/&#181;L cost $290/DALY. In concentrated epidemics, expanded access among key populations was also cost-effective.</AbstractText>
+                <AbstractText Label="INTERPRETATION" NlmCategory="CONCLUSIONS">Earlier ART eligibility is estimated to be very cost-effective in low- and middle-income settings, although these questions should be revisited as further information becomes available. Scaling-up ART should be considered among other high-priority health interventions competing for health budgets.</AbstractText>
+                <AbstractText Label="FUNDING" NlmCategory="BACKGROUND">The Bill and Melinda Gates Foundation and World Health Organization.</AbstractText>
+            </Abstract>
+            <AuthorList CompleteYN="Y">
+                <Author ValidYN="Y">
+                    <LastName>Eaton</LastName>
+                    <ForeName>Jeffrey W</ForeName>
+                    <Initials>JW</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Infectious Disease Epidemiology, Imperial College London, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Menzies</LastName>
+                    <ForeName>Nicolas A</ForeName>
+                    <Initials>NA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Health Decision Science, Harvard School of Public Health, Boston, MA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Stover</LastName>
+                    <ForeName>John</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Futures Institute, Glastonbury, CT, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cambiano</LastName>
+                    <ForeName>Valentina</ForeName>
+                    <Initials>V</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Research Department of Infection and Population Health, University College London, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chindelevitch</LastName>
+                    <ForeName>Leonid</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Global Health and Population, Harvard School of Public Health, Boston, MA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cori</LastName>
+                    <ForeName>Anne</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>MRC Centre for Outbreak Analysis and Modelling, Department of Infectious Disease Epidemiology, Imperial College London, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hontelez</LastName>
+                    <ForeName>Jan A C</ForeName>
+                    <Initials>JA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Public Health, Erasmus MC, University Medical Center Rotterdam, Rotterdam, Netherlands ; Africa Centre for Health and Population Studies, University of KwaZulu-Natal, Mtubatuba, South Africa ; Nijmegen International Center for Health System Analysis and Education (NICHE), Department of Primary and Community Care, Radboud University Nijmegen Medical Centre, Nijmegen, Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Humair</LastName>
+                    <ForeName>Salal</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Harvard School of Public Health, Boston, MA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Kerr</LastName>
+                    <ForeName>Cliff C</ForeName>
+                    <Initials>CC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Kirby Institute, University of New South Wales, Sydney, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Klein</LastName>
+                    <ForeName>Daniel J</ForeName>
+                    <Initials>DJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Epidemiological Modeling Group, Intellectual Ventures Laboratory, Bellevue, WA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mishra</LastName>
+                    <ForeName>Sharmistha</ForeName>
+                    <Initials>S</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Infectious Disease Epidemiology, Imperial College London, London, UK ; Division of Infectious Diseases, St. Michael's Hospital, University of Toronto, Canada.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mitchell</LastName>
+                    <ForeName>Kate M</ForeName>
+                    <Initials>KM</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Social and Mathematical Epidemiology Group, London School of Hygiene and Tropical Medicine, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Nichols</LastName>
+                    <ForeName>Brooke E</ForeName>
+                    <Initials>BE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Virology, Erasmus Medical Center, Rotterdam, Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Vickerman</LastName>
+                    <ForeName>Peter</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Social and Mathematical Epidemiology Group, London School of Hygiene and Tropical Medicine, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bakker</LastName>
+                    <ForeName>Roel</ForeName>
+                    <Initials>R</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Public Health, Erasmus MC, University Medical Center Rotterdam, Rotterdam, Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>B&#228;rnighausen</LastName>
+                    <ForeName>Till</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Africa Centre for Health and Population Studies, University of KwaZulu-Natal, Mtubatuba, South Africa ; Harvard School of Public Health, Boston, MA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bershteyn</LastName>
+                    <ForeName>Anna</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Epidemiological Modeling Group, Intellectual Ventures Laboratory, Bellevue, WA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Bloom</LastName>
+                    <ForeName>David E</ForeName>
+                    <Initials>DE</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Harvard School of Public Health, Boston, MA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Boily</LastName>
+                    <ForeName>Marie-Claude</ForeName>
+                    <Initials>MC</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Infectious Disease Epidemiology, Imperial College London, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Chang</LastName>
+                    <ForeName>Stewart T</ForeName>
+                    <Initials>ST</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Epidemiological Modeling Group, Intellectual Ventures Laboratory, Bellevue, WA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Cohen</LastName>
+                    <ForeName>Ted</ForeName>
+                    <Initials>T</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Division of Global Health Equity, Brigham and Women's Hospital, Boston, MA, USA ; Department of Epidemiology, Harvard School of Public Health, Boston, MA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Dodd</LastName>
+                    <ForeName>Peter J</ForeName>
+                    <Initials>PJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Infectious Disease Epidemiology, London School of Hygiene &amp; Tropical Medicine, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Fraser</LastName>
+                    <ForeName>Christophe</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>MRC Centre for Outbreak Analysis and Modelling, Department of Infectious Disease Epidemiology, Imperial College London, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Gopalappa</LastName>
+                    <ForeName>Chaitra</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Futures Institute, Glastonbury, CT, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Lundgren</LastName>
+                    <ForeName>Jens</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Copenhagen University Hospital/Rigshospitalet, Copenhagen, Denmark ; University of Copenhagen, Copenhagen, Denmark.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Martin</LastName>
+                    <ForeName>Natasha K</ForeName>
+                    <Initials>NK</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>School of Social and Community Medicine, University of Bristol, Bristol, UK ; Social and Mathematical Epidemiology Group, London School of Hygiene and Tropical Medicine, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mikkelsen</LastName>
+                    <ForeName>Evelinn</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Nijmegen International Center for Health System Analysis and Education (NICHE), Department of Primary and Community Care, Radboud University Nijmegen Medical Centre, Nijmegen, Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Mountain</LastName>
+                    <ForeName>Elisa</ForeName>
+                    <Initials>E</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Infectious Disease Epidemiology, Imperial College London, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pham</LastName>
+                    <ForeName>Quang D</ForeName>
+                    <Initials>QD</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Kirby Institute, University of New South Wales, Sydney, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pickles</LastName>
+                    <ForeName>Michael</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Infectious Disease Epidemiology, Imperial College London, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Phillips</LastName>
+                    <ForeName>Andrew</ForeName>
+                    <Initials>A</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Research Department of Infection and Population Health, University College London, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Platt</LastName>
+                    <ForeName>Lucy</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Social and Mathematical Epidemiology Group, London School of Hygiene and Tropical Medicine, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Pretorius</LastName>
+                    <ForeName>Carel</ForeName>
+                    <Initials>C</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Futures Institute, Glastonbury, CT, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Prudden</LastName>
+                    <ForeName>Holly J</ForeName>
+                    <Initials>HJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Social and Mathematical Epidemiology Group, London School of Hygiene and Tropical Medicine, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Salomon</LastName>
+                    <ForeName>Joshua A</ForeName>
+                    <Initials>JA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Global Health and Population, Harvard School of Public Health, Boston, MA, USA ; Center for Health Decision Science, Harvard School of Public Health, Boston, MA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>van de Vijver</LastName>
+                    <ForeName>David A M C</ForeName>
+                    <Initials>DA</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Virology, Erasmus Medical Center, Rotterdam, Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>de Vlas</LastName>
+                    <ForeName>Sake J</ForeName>
+                    <Initials>SJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Public Health, Erasmus MC, University Medical Center Rotterdam, Rotterdam, Netherlands.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wagner</LastName>
+                    <ForeName>Bradley G</ForeName>
+                    <Initials>BG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Epidemiological Modeling Group, Intellectual Ventures Laboratory, Bellevue, WA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>White</LastName>
+                    <ForeName>Richard G</ForeName>
+                    <Initials>RG</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Infectious Disease Epidemiology, London School of Hygiene &amp; Tropical Medicine, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Wilson</LastName>
+                    <ForeName>David P</ForeName>
+                    <Initials>DP</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Kirby Institute, University of New South Wales, Sydney, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Zhang</LastName>
+                    <ForeName>Lei</ForeName>
+                    <Initials>L</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Kirby Institute, University of New South Wales, Sydney, Australia.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Blandford</LastName>
+                    <ForeName>John</ForeName>
+                    <Initials>J</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>U.S. Centers for Disease Control and Prevention, Atlanta, GA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Meyer-Rath</LastName>
+                    <ForeName>Gesine</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Center for Global Health and Development, Boston University, Boston, MA, USA ; Health Economics and Epidemiology Research Office, Department of Medicine, Faculty of Health Sciences, University of Witwatersrand, Johannesburg, South Africa.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Remme</LastName>
+                    <ForeName>Michelle</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Social and Mathematical Epidemiology Group, London School of Hygiene and Tropical Medicine, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Revill</LastName>
+                    <ForeName>Paul</ForeName>
+                    <Initials>P</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Centre for Health Economics, University of York, York, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Sangrujee</LastName>
+                    <ForeName>Nalinee</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>U.S. Centers for Disease Control and Prevention, Atlanta, GA, USA.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Terris-Prestholt</LastName>
+                    <ForeName>Fern</ForeName>
+                    <Initials>F</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Social and Mathematical Epidemiology Group, London School of Hygiene and Tropical Medicine, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Doherty</LastName>
+                    <ForeName>Meg</ForeName>
+                    <Initials>M</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of HIV/AIDS, World Health Organization, Geneva, Switzerland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Shaffer</LastName>
+                    <ForeName>Nathan</ForeName>
+                    <Initials>N</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of HIV/AIDS, World Health Organization, Geneva, Switzerland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Easterbrook</LastName>
+                    <ForeName>Philippa J</ForeName>
+                    <Initials>PJ</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of HIV/AIDS, World Health Organization, Geneva, Switzerland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hirnschall</LastName>
+                    <ForeName>Gottfried</ForeName>
+                    <Initials>G</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of HIV/AIDS, World Health Organization, Geneva, Switzerland.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+                <Author ValidYN="Y">
+                    <LastName>Hallett</LastName>
+                    <ForeName>Timothy B</ForeName>
+                    <Initials>TB</Initials>
+                    <AffiliationInfo>
+                        <Affiliation>Department of Infectious Disease Epidemiology, Imperial College London, London, UK.</Affiliation>
+                    </AffiliationInfo>
+                </Author>
+            </AuthorList>
+            <Language>eng</Language>
+            <GrantList CompleteYN="Y">
+                <Grant>
+                    <GrantID>PDF-2011-04-049</GrantID>
+                    <Agency>Department of Health</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>120434-1</GrantID>
+                    <Agency>Canadian Institutes of Health Research</Agency>
+                    <Country>Canada</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>MR/K010174/1</GrantID>
+                    <Agency>Medical Research Council</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>MR/K010174/1B</GrantID>
+                    <Agency>Medical Research Council</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>U54 GM088558</GrantID>
+                    <Acronym>GM</Acronym>
+                    <Agency>NIGMS NIH HHS</Agency>
+                    <Country>United States</Country>
+                </Grant>
+                <Grant>
+                    <GrantID>113289-1</GrantID>
+                    <Agency>Canadian Institutes of Health Research</Agency>
+                    <Country>Canada</Country>
+                </Grant>
+                <Grant>
+                    <Agency>Wellcome Trust</Agency>
+                    <Country>United Kingdom</Country>
+                </Grant>
+            </GrantList>
+            <PublicationTypeList>
+                <PublicationType UI="D016428">Journal Article</PublicationType>
+            </PublicationTypeList>
+        </Article>
+        <MedlineJournalInfo>
+            <Country>England</Country>
+            <MedlineTA>Lancet Glob Health</MedlineTA>
+            <NlmUniqueID>101613665</NlmUniqueID>
+            <ISSNLinking>2214-109X</ISSNLinking>
+        </MedlineJournalInfo>
+    </MedlineCitation>
+    <PubmedData>
+        <History>
+            <PubMedPubDate PubStatus="entrez">
+                <Year>2014</Year>
+                <Month>8</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="pubmed">
+                <Year>2014</Year>
+                <Month>8</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+            <PubMedPubDate PubStatus="medline">
+                <Year>2014</Year>
+                <Month>8</Month>
+                <Day>2</Day>
+                <Hour>6</Hour>
+                <Minute>0</Minute>
+            </PubMedPubDate>
+        </History>
+        <PublicationStatus>ppublish</PublicationStatus>
+        <ArticleIdList>
+            <ArticleId IdType="pubmed">25083415</ArticleId>
+            <ArticleId IdType="doi">10.1016/S2214-109X(13)70172-4</ArticleId>
+            <ArticleId IdType="pmc">PMC4114402</ArticleId>
+            <ArticleId IdType="mid">NIHMS584718</ArticleId>
+            <ArticleId IdType="pii">S2214-109X(13)70172-4</ArticleId>
+        </ArticleIdList>
+        
+        <ReferenceList>
+            <Reference>
+                <Citation>PLoS Med. 2012;9(7):e1001250</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22807657</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet. 2010 Aug 14;376(9740):532-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20638713</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2013;8(2):e55312</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23457467</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>AIDS. 2013 Jul 31;27(12):1839-46</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24179998</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet Infect Dis. 2013 Apr;13(4):313-8</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23375420</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Int AIDS Soc. 2012 Nov 19;15(2):17383</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23199799</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Cochrane Database Syst Rev. 2013 Apr 30;(4):CD009153</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23633367</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2010 Jun 10;5(6):e11068</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20548786</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2012;7(5):e37125</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22615917</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Med. 2012;9(7):e1001231</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22807656</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Drug Alcohol Depend. 2012 Jun 1;123(1-3):122-31</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22138540</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet. 2010 Oct 9;376(9748):1254-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">20934597</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>BMC Public Health. 2012 Jun 25;12:296</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22520171</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Science. 2013 Feb 22;339(6122):966-71</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23430656</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2012;7(2):e30216</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22348000</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet. 2012 Dec 15;380(9859):2129-43</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23245605</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Infect Dis. 2014 Feb 1;209(3):431-40</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23990567</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>AIDS. 2013 Jun 1;27(9):1449-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23462221</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Med. 2011 Jul;8(7):e1001056</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21811403</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2013 Mar 7;368(10):886-9</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23425131</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Proc Natl Acad Sci U S A. 2012 Dec 26;109(52):21271-6</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23223563</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Acquir Immune Defic Syndr. 2011 Jan 1;56(1):26-35</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21068674</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>AIDS. 2013 Sep 24;27(15):2461-70</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23842132</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>N Engl J Med. 2011 Aug 11;365(6):493-505</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21767103</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Infect Dis. 2013 Jun 15;207 Suppl 2:S57-62</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23687290</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J Intern Med. 2011 Dec;270(6):532-49</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21929723</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Med. 2013 Oct;10(10):e1001534</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">24167449</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>AIDS. 2011 Oct 23;25(16):1939-49</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21811137</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Med. 2012;9(11):e1001347</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23185139</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>J R Soc Interface. 2013 Aug 28;10(88):20130613</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23985734</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2012;7(12):e51993</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23284843</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>AIDS. 2012 Sep 10;26(14):1840-3</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22781219</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Med. 2011 Nov;8(11):e1001132</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22140367</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS Med. 2012;9(7):e1001245</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">22802730</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet. 2011 Jun 11;377(9782):2031-41</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21641026</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2012;7(11):e48726</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">23144946</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>PLoS One. 2011;6(7):e21919</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21799755</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>Lancet. 2009 Jan 3;373(9657):48-57</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">19038438</ArticleId>
+                </ArticleIdList>
+            </Reference>
+            <Reference>
+                <Citation>AIDS. 2011 Sep 10;25(14):1753-60</Citation>
+                <ArticleIdList>
+                    <ArticleId IdType="pubmed">21412127</ArticleId>
+                </ArticleIdList>
+            </Reference>
+        </ReferenceList>
+    </PubmedData>
+</PubmedArticle>
+
+
+

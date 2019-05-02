@@ -6,7 +6,7 @@ import xml.etree.ElementTree as ET
 import requests
 
 
-OBC_IDE_URL = "http://api.obc.io/publications"
+OBC_IDE_URL = "http://devapi.onbc.io/publications"
 
 
 class PubmedArticle():
@@ -45,7 +45,7 @@ class PubmedArticle():
         #     if eid.get("EIdType") == "doi":
         #         result["doi"] = eid.text
 
-        return result
+        #return result
 
     def publication_in_obc(self):
         """Return True if an article is found in the obc.ide /publications api response.
@@ -57,9 +57,11 @@ class PubmedArticle():
 
         for entry in entries:
             if self.pmid == entry.get("pmid", None):
+                print(entry.get("pmid", None))
                 return True
             else:
-                if self.doi == entry.get("doi", None):
+                if self.doi is not None and self.doi == entry.get("doi", None):
+                    print(entry.get("doi", None))
                     return True
         return False
 
@@ -90,9 +92,9 @@ def write_to_xml(lst, path):
 
 
 if __name__ == '__main__':
-    in_obc, not_in_obc = sort_xml('real_output.xml')
+    in_obc, not_in_obc = sort_xml('most_recent_publications_2019-03-19.xml')
     print("In OBC: " + str(len(in_obc)))
     print("Not In OBC: " + str(len(not_in_obc)))
 
-    write_to_xml(in_obc, 'in_obc.xml')
-    write_to_xml(not_in_obc, 'not_in_obc.xml')
+    write_to_xml(in_obc, 'in_obc_test.xml')
+    write_to_xml(not_in_obc, 'not_in_obc_test.xml')
